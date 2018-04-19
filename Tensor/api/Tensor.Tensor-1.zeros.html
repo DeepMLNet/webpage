@@ -89,19 +89,7 @@
 
 <a id="Tensor_Tensor_1_zeros_" data-uid="Tensor.Tensor`1.zeros*"></a>
 <h4 id="Tensor_Tensor_1_zeros_Tensor_Backend_ITensorDevice____int64_list_" data-uid="Tensor.Tensor`1.zeros(Tensor.Backend.ITensorDevice -&gt; int64 list)">static member zeros: ITensorDevice -&gt; int64 list -&gt; Tensor&lt;'T&gt;</h4>
-<div class="markdown level1 summary"><p> <summary>Creates a new tensor filled with zeros (0).</summary>
- <param name="dev">The device to create the tensor on.
- <param name="shape">The shape of the new tensor.
- <returns>The new tensor.</returns>
- <example><code language="fsharp">
- let a = Tensor<float>.zeros HostTensor.Dev [2L; 3L]
- // a = [[0.0; 0.0; 0.0]
- //      [0.0; 0.0; 0.0]]
- </float></code></example><br> <remarks>
- <para>A new tensor of the specified shape is created on the specified device.</para>
- <para>The tensor is filled with zeros.</para>
- </remarks>
- <seealso cref="zerosLike"></seealso><seealso cref="ones"></seealso></p>
+<div class="markdown level1 summary"><p>Creates a new tensor filled with zeros (0).</p>
 </div>
 <div class="markdown level1 conceptual"></div>
 <h5 class="decalaration">Declaration</h5>
@@ -121,12 +109,14 @@
     <tr>
       <td><a class="xref" href="Tensor.Backend.ITensorDevice.html">ITensorDevice</a></td>
       <td><span class="parametername">dev</span></td>
-      <td></td>
+      <td><p>The device to create the tensor on.</p>
+</td>
     </tr>
     <tr>
       <td><span class="xref">int64</span> <span class="xref">list</span></td>
       <td><span class="parametername">shape</span></td>
-      <td></td>
+      <td><p>The shape of the new tensor.</p>
+</td>
     </tr>
   </tbody>
 </table>
@@ -141,10 +131,24 @@
   <tbody>
     <tr>
       <td><a class="xref" href="Tensor.Tensor-1.html">Tensor</a>&lt;&#39;T&gt;</td>
-      <td></td>
+      <td><p>The new tensor.</p>
+</td>
     </tr>
   </tbody>
 </table>
+<h5 id="Tensor_Tensor_1_zeros_Tensor_Backend_ITensorDevice____int64_list__remarks">Remarks</h5>
+<div class="markdown level1 remarks"><p>A new tensor of the specified shape is created on the specified device.</p>
+<p>The tensor is filled with zeros.</p>
+</div>
+<h5 id="Tensor_Tensor_1_zeros_Tensor_Backend_ITensorDevice____int64_list__examples">Examples</h5>
+<pre><code class="fsharp"> let a = Tensor&lt;float>.zeros HostTensor.Dev [2L; 3L]
+ // a = [[0.0; 0.0; 0.0]
+ //      [0.0; 0.0; 0.0]]</code></pre>
+<h5 id="Tensor_Tensor_1_zeros_Tensor_Backend_ITensorDevice____int64_list__seealso">See Also</h5>
+<div class="seealso">
+    <div><a class="xref" href="Tensor.Tensor-1.zerosLike.html#Tensor_Tensor_1_zerosLike_Tensor_Tensor__T__">static member zerosLike: Tensor&lt;&#39;T&gt; -&gt; Tensor&lt;&#39;T&gt;</a></div>
+    <div><a class="xref" href="Tensor.Tensor-1.ones.html#Tensor_Tensor_1_ones_Tensor_Backend_ITensorDevice____int64_list_">static member ones: ITensorDevice -&gt; int64 list -&gt; Tensor&lt;&#39;T&gt;</a></div>
+</div>
 </article>
           </div>
           

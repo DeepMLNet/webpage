@@ -106,11 +106,11 @@
 </tr>
 <tr>
 <td><a class="xref" href="../api/Tensor.Tensor-1.identity.html">identity</a></td>
-<td><summary>Creates a new identity matrix.</summary>  <param name="dev">The device to create the matrix on.  <param name="size">The size of the square identity matrix.  <returns>The new tensor.</returns>  <example><code language="fsharp">  let a = Tensor<float>.identity HostTensor.Dev 3L  // a = [[1.0; 0.0; 0.0]  //      [0.0; 1.0; 0.0]  //      [0.0; 0.0; 1.0]]      </float></code></example>           <remarks>  <para>A new square matrix of the specified size is created on the specified device.</para>  <para>The tensor is filled with ones on the diagonal and zeros elsewhere.</para>  </remarks></td>
+<td>Creates a new identity matrix.</td>
 </tr>
 <tr>
 <td><a class="xref" href="../api/Tensor.Tensor-1.ones.html">ones</a></td>
-<td><summary>Creates a new tensor filled with ones (1).</summary>  <param name="dev">The device to create the tensor on.  <param name="shape">The shape of the new tensor.  <returns>The new tensor.</returns>  <example><code language="fsharp">  let a = Tensor<float>.ones HostTensor.Dev [2L; 3L]  // a = [[1.0; 1.0; 1.0]  //      [1.0; 1.0; 1.0]]  </float></code></example>        <remarks>  <para>A new tensor of the specified shape is created on the specified device.</para>  <para>The tensor is filled with ones.</para>  </remarks>  <seealso cref="onesLike"></seealso><seealso cref="zeros"></seealso></td>
+<td>Creates a new tensor filled with ones (1).</td>
 </tr>
 <tr>
 <td><a class="xref" href="../api/Tensor.Tensor-1.onesLike.html">onesLike</a></td>
@@ -134,7 +134,7 @@
 </tr>
 <tr>
 <td><a class="xref" href="../api/Tensor.Tensor-1.zeros.html">zeros</a></td>
-<td><summary>Creates a new tensor filled with zeros (0).</summary>  <param name="dev">The device to create the tensor on.  <param name="shape">The shape of the new tensor.  <returns>The new tensor.</returns>  <example><code language="fsharp">  let a = Tensor<float>.zeros HostTensor.Dev [2L; 3L]  // a = [[0.0; 0.0; 0.0]  //      [0.0; 0.0; 0.0]]  </float></code></example>      <remarks>  <para>A new tensor of the specified shape is created on the specified device.</para>  <para>The tensor is filled with zeros.</para>  </remarks>  <seealso cref="zerosLike"></seealso><seealso cref="ones"></seealso></td>
+<td>Creates a new tensor filled with zeros (0).</td>
 </tr>
 <tr>
 <td><a class="xref" href="../api/Tensor.Tensor-1.zerosLike.html">zerosLike</a></td>
@@ -902,7 +902,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/DeepMLNet/DeepNet/blob/5aa4bf90b5a9268a91481620f23250d9a2f81482/Tensor/Tensor.Docs/articles/Tensor.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/DeepMLNet/DeepNet/blob/d4c13dec52d9543470573a76f7f6df2a00a5bffa/Tensor/Tensor.Docs/articles/Tensor.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
