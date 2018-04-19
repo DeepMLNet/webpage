@@ -212,11 +212,11 @@ references:
   fullName: Tensor.Algorithm.NPYFile
   nameWithType: Tensor.Algorithm.NPYFile
 - uid: Tensor.Algorithm.NPYFile.load(string)
-  name: "val load: string -> Tensor<'?148426>"
+  name: "val load: string -> Tensor<'?19450>"
   href: api/Tensor.Algorithm.NPYFile.load.html#Tensor_Algorithm_NPYFile_load_string_
   commentId: M:Tensor.Algorithm.load``1(System.String)
-  fullName: "val Tensor.Algorithm.NPYFile.load: string -> Tensor.Tensor<'?148426>"
-  nameWithType: "val NPYFile.load: string -> Tensor<'?148426>"
+  fullName: "val Tensor.Algorithm.NPYFile.load: string -> Tensor.Tensor<'?19450>"
+  nameWithType: "val NPYFile.load: string -> Tensor<'?19450>"
 - uid: Tensor.Algorithm.NPYFile.load*
   name: load
   href: api/Tensor.Algorithm.NPYFile.load.html
@@ -254,11 +254,11 @@ references:
   fullName: Tensor.Algorithm.NPZFile
   nameWithType: NPZFile.( .ctor )
 - uid: Tensor.Algorithm.NPZFile.Get(string)
-  name: "member Get: string -> Tensor<'?148420>"
+  name: "member Get: string -> Tensor<'?19444>"
   href: api/Tensor.Algorithm.NPZFile.Get.html#Tensor_Algorithm_NPZFile_Get_string_
   commentId: M:Tensor.Algorithm.NPZFile.Get``1(System.String)
-  fullName: "member Tensor.Algorithm.NPZFile.Get: string -> Tensor.Tensor<'?148420>"
-  nameWithType: "member NPZFile.Get: string -> Tensor<'?148420>"
+  fullName: "member Tensor.Algorithm.NPZFile.Get: string -> Tensor.Tensor<'?19444>"
+  nameWithType: "member NPZFile.Get: string -> Tensor<'?19444>"
 - uid: Tensor.Algorithm.NPZFile.Get*
   name: Get
   href: api/Tensor.Algorithm.NPZFile.Get.html
@@ -1154,11 +1154,11 @@ references:
   fullName: Tensor.Backend.BaseTensorDevice.Equals
   nameWithType: BaseTensorDevice.Equals
 - uid: Tensor.Backend.BaseTensorDevice.Tensor-Backend-ITensorDevice-Create(int64)
-  name: "interface ITensorDevice with member Create: int64 -> ITensorStorage<'?23209>"
+  name: "interface ITensorDevice with member Create: int64 -> ITensorStorage<'?34950>"
   href: api/Tensor.Backend.BaseTensorDevice.Tensor-Backend-ITensorDevice-Create.html#Tensor_Backend_BaseTensorDevice_Tensor_Backend_ITensorDevice_Create_int64_
   commentId: M:Tensor.Backend.BaseTensorDevice.Tensor-Backend-ITensorDevice-Create``1(System.Int64)
-  fullName: "interface Tensor.Backend.ITensorDevice with member Tensor.Backend.BaseTensorDevice.Create: int64 -> Tensor.Backend.ITensorStorage<'?23209>"
-  nameWithType: "interface ITensorDevice with member BaseTensorDevice.Create: int64 -> ITensorStorage<'?23209>"
+  fullName: "interface Tensor.Backend.ITensorDevice with member Tensor.Backend.BaseTensorDevice.Create: int64 -> Tensor.Backend.ITensorStorage<'?34950>"
+  nameWithType: "interface ITensorDevice with member BaseTensorDevice.Create: int64 -> ITensorStorage<'?34950>"
 - uid: Tensor.Backend.BaseTensorDevice.Tensor-Backend-ITensorDevice-Create*
   name: Create
   href: api/Tensor.Backend.BaseTensorDevice.Tensor-Backend-ITensorDevice-Create.html
@@ -3517,12 +3517,12 @@ references:
   commentId: Overload:Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Ceiling*
   fullName: Tensor.Cuda.TensorCudaBackend.Ceiling
   nameWithType: TensorCudaBackend.Ceiling
-- uid: Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Convert(Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?129401>)
-  name: "interface ITensorBackend<'T> with member Convert: ITensorFrontend<'T> * ITensorFrontend<'?129401> -> unit"
-  href: api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html#Tensor_Cuda_TensorCudaBackend_1_Tensor_Backend_ITensorBackend_1_Convert_Tensor_Backend_ITensorFrontend__T____Tensor_Backend_ITensorFrontend___129401__
+- uid: Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Convert(Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?141130>)
+  name: "interface ITensorBackend<'T> with member Convert: ITensorFrontend<'T> * ITensorFrontend<'?141130> -> unit"
+  href: api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html#Tensor_Cuda_TensorCudaBackend_1_Tensor_Backend_ITensorBackend_1_Convert_Tensor_Backend_ITensorFrontend__T____Tensor_Backend_ITensorFrontend___141130__
   commentId: M:Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Convert``1(Tensor.Backend.ITensorFrontend{`0},Tensor.Backend.ITensorFrontend{``0})
-  fullName: "interface Tensor.Backend.ITensorBackend<'T> with member Tensor.Cuda.TensorCudaBackend.Convert: Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?129401> -> unit"
-  nameWithType: "interface ITensorBackend<'T> with member TensorCudaBackend.Convert: ITensorFrontend<'T> * ITensorFrontend<'?129401> -> unit"
+  fullName: "interface Tensor.Backend.ITensorBackend<'T> with member Tensor.Cuda.TensorCudaBackend.Convert: Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?141130> -> unit"
+  nameWithType: "interface ITensorBackend<'T> with member TensorCudaBackend.Convert: ITensorFrontend<'T> * ITensorFrontend<'?141130> -> unit"
 - uid: Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Convert*
   name: Convert
   href: api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html
@@ -4196,11 +4196,11 @@ references:
   fullName: Tensor.Cuda.TensorCudaDevice
   nameWithType: Tensor.Cuda.TensorCudaDevice
 - uid: Tensor.Cuda.TensorCudaDevice.Create(int64)
-  name: "override member Create: int64 -> ITensorStorage<'?129530>"
+  name: "override member Create: int64 -> ITensorStorage<'?141259>"
   href: api/Tensor.Cuda.TensorCudaDevice.Create.html#Tensor_Cuda_TensorCudaDevice_Create_int64_
   commentId: M:Tensor.Cuda.TensorCudaDevice.Create``1(System.Int64)
-  fullName: "override member Tensor.Cuda.TensorCudaDevice.Create: int64 -> Tensor.Backend.ITensorStorage<'?129530>"
-  nameWithType: "override member TensorCudaDevice.Create: int64 -> ITensorStorage<'?129530>"
+  fullName: "override member Tensor.Cuda.TensorCudaDevice.Create: int64 -> Tensor.Backend.ITensorStorage<'?141259>"
+  nameWithType: "override member TensorCudaDevice.Create: int64 -> ITensorStorage<'?141259>"
 - uid: Tensor.Cuda.TensorCudaDevice.Create*
   name: Create
   href: api/Tensor.Cuda.TensorCudaDevice.Create.html
@@ -4909,12 +4909,12 @@ references:
   commentId: Overload:Tensor.Host.TensorHostBackend`1.FoldLastAxis*
   fullName: Tensor.Host.TensorHostBackend.FoldLastAxis
   nameWithType: TensorHostBackend.FoldLastAxis
-- uid: Tensor.Host.TensorHostBackend`1.FoldLastAxisIndexed(int64 [] -> '?103769 -> '?103770 -> '?103769 * Tensor.Backend.ITensorFrontend<'?103769> * Tensor.Backend.ITensorFrontend<'?103769> * Tensor.Backend.ITensorFrontend<'?103770> * bool)
-  name: "member FoldLastAxisIndexed: int64 [] -> '?103769 -> '?103770 -> '?103769 * ITensorFrontend<'?103769> * ITensorFrontend<'?103769> * ITensorFrontend<'?103770> * bool -> unit"
-  href: api/Tensor.Host.TensorHostBackend-1.FoldLastAxisIndexed.html#Tensor_Host_TensorHostBackend_1_FoldLastAxisIndexed_int64_________103769______103770______103769___Tensor_Backend_ITensorFrontend___103769____Tensor_Backend_ITensorFrontend___103769____Tensor_Backend_ITensorFrontend___103770____bool_
+- uid: Tensor.Host.TensorHostBackend`1.FoldLastAxisIndexed(int64 [] -> '?115510 -> '?115511 -> '?115510 * Tensor.Backend.ITensorFrontend<'?115510> * Tensor.Backend.ITensorFrontend<'?115510> * Tensor.Backend.ITensorFrontend<'?115511> * bool)
+  name: "member FoldLastAxisIndexed: int64 [] -> '?115510 -> '?115511 -> '?115510 * ITensorFrontend<'?115510> * ITensorFrontend<'?115510> * ITensorFrontend<'?115511> * bool -> unit"
+  href: api/Tensor.Host.TensorHostBackend-1.FoldLastAxisIndexed.html#Tensor_Host_TensorHostBackend_1_FoldLastAxisIndexed_int64_________115510______115511______115510___Tensor_Backend_ITensorFrontend___115510____Tensor_Backend_ITensorFrontend___115510____Tensor_Backend_ITensorFrontend___115511____bool_
   commentId: M:Tensor.Host.TensorHostBackend`1.FoldLastAxisIndexed``2(Microsoft.FSharp.Core.FSharpFunc{System.Int64[],Microsoft.FSharp.Core.FSharpFunc{``0,Microsoft.FSharp.Core.FSharpFunc{``1,``0}}},Tensor.Backend.ITensorFrontend{``0},Tensor.Backend.ITensorFrontend{``0},Tensor.Backend.ITensorFrontend{``1},System.Boolean)
-  fullName: "member Tensor.Host.TensorHostBackend.FoldLastAxisIndexed: int64 [] -> '?103769 -> '?103770 -> '?103769 * Tensor.Backend.ITensorFrontend<'?103769> * Tensor.Backend.ITensorFrontend<'?103769> * Tensor.Backend.ITensorFrontend<'?103770> * bool -> unit"
-  nameWithType: "member TensorHostBackend.FoldLastAxisIndexed: int64 [] -> '?103769 -> '?103770 -> '?103769 * ITensorFrontend<'?103769> * ITensorFrontend<'?103769> * ITensorFrontend<'?103770> * bool -> unit"
+  fullName: "member Tensor.Host.TensorHostBackend.FoldLastAxisIndexed: int64 [] -> '?115510 -> '?115511 -> '?115510 * Tensor.Backend.ITensorFrontend<'?115510> * Tensor.Backend.ITensorFrontend<'?115510> * Tensor.Backend.ITensorFrontend<'?115511> * bool -> unit"
+  nameWithType: "member TensorHostBackend.FoldLastAxisIndexed: int64 [] -> '?115510 -> '?115511 -> '?115510 * ITensorFrontend<'?115510> * ITensorFrontend<'?115510> * ITensorFrontend<'?115511> * bool -> unit"
 - uid: Tensor.Host.TensorHostBackend`1.FoldLastAxisIndexed*
   name: FoldLastAxisIndexed
   href: api/Tensor.Host.TensorHostBackend-1.FoldLastAxisIndexed.html
@@ -5173,12 +5173,12 @@ references:
   commentId: Overload:Tensor.Host.TensorHostBackend`1.Tensor-Backend-ITensorBackend`1-Ceiling*
   fullName: Tensor.Host.TensorHostBackend.Ceiling
   nameWithType: TensorHostBackend.Ceiling
-- uid: Tensor.Host.TensorHostBackend`1.Tensor-Backend-ITensorBackend`1-Convert(Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?103784>)
-  name: "interface ITensorBackend<'T> with member Convert: ITensorFrontend<'T> * ITensorFrontend<'?103784> -> unit"
-  href: api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html#Tensor_Host_TensorHostBackend_1_Tensor_Backend_ITensorBackend_1_Convert_Tensor_Backend_ITensorFrontend__T____Tensor_Backend_ITensorFrontend___103784__
+- uid: Tensor.Host.TensorHostBackend`1.Tensor-Backend-ITensorBackend`1-Convert(Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?115525>)
+  name: "interface ITensorBackend<'T> with member Convert: ITensorFrontend<'T> * ITensorFrontend<'?115525> -> unit"
+  href: api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html#Tensor_Host_TensorHostBackend_1_Tensor_Backend_ITensorBackend_1_Convert_Tensor_Backend_ITensorFrontend__T____Tensor_Backend_ITensorFrontend___115525__
   commentId: M:Tensor.Host.TensorHostBackend`1.Tensor-Backend-ITensorBackend`1-Convert``1(Tensor.Backend.ITensorFrontend{`0},Tensor.Backend.ITensorFrontend{``0})
-  fullName: "interface Tensor.Backend.ITensorBackend<'T> with member Tensor.Host.TensorHostBackend.Convert: Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?103784> -> unit"
-  nameWithType: "interface ITensorBackend<'T> with member TensorHostBackend.Convert: ITensorFrontend<'T> * ITensorFrontend<'?103784> -> unit"
+  fullName: "interface Tensor.Backend.ITensorBackend<'T> with member Tensor.Host.TensorHostBackend.Convert: Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?115525> -> unit"
+  nameWithType: "interface ITensorBackend<'T> with member TensorHostBackend.Convert: ITensorFrontend<'T> * ITensorFrontend<'?115525> -> unit"
 - uid: Tensor.Host.TensorHostBackend`1.Tensor-Backend-ITensorBackend`1-Convert*
   name: Convert
   href: api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html
@@ -5852,11 +5852,11 @@ references:
   fullName: Tensor.Host.TensorHostDevice
   nameWithType: Tensor.Host.TensorHostDevice
 - uid: Tensor.Host.TensorHostDevice.Create(int64)
-  name: "override member Create: int64 -> ITensorStorage<'?103916>"
+  name: "override member Create: int64 -> ITensorStorage<'?115657>"
   href: api/Tensor.Host.TensorHostDevice.Create.html#Tensor_Host_TensorHostDevice_Create_int64_
   commentId: M:Tensor.Host.TensorHostDevice.Create``1(System.Int64)
-  fullName: "override member Tensor.Host.TensorHostDevice.Create: int64 -> Tensor.Backend.ITensorStorage<'?103916>"
-  nameWithType: "override member TensorHostDevice.Create: int64 -> ITensorStorage<'?103916>"
+  fullName: "override member Tensor.Host.TensorHostDevice.Create: int64 -> Tensor.Backend.ITensorStorage<'?115657>"
+  nameWithType: "override member TensorHostDevice.Create: int64 -> ITensorStorage<'?115657>"
 - uid: Tensor.Host.TensorHostDevice.Create*
   name: Create
   href: api/Tensor.Host.TensorHostDevice.Create.html
