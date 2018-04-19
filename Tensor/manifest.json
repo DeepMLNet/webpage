@@ -17,8 +17,8 @@
       "source_relative_path": "api/Tensor.Algorithm.BigIntegerExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.BigIntegerExtensions.___System.Numerics.BigInteger.BigInteger.Bezout.Static.html",
-          "hash": "8mgusJ5vJogNIbL1ZLIl3w=="
+          "relative_path": "api/Tensor.Algorithm.BigIntegerExtensions.html",
+          "hash": "aD0/GN7L4j+msq5x3Zyj0g=="
         }
       },
       "is_incremental": false,
@@ -29,8 +29,20 @@
       "source_relative_path": "api/Tensor.Algorithm.BigIntegerExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.BigIntegerExtensions.html",
-          "hash": "aD0/GN7L4j+msq5x3Zyj0g=="
+          "relative_path": "api/Tensor.Algorithm.BigIntegerExtensions.___System.Numerics.BigInteger.BigInteger.Bezout.Static.html",
+          "hash": "8mgusJ5vJogNIbL1ZLIl3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Decomposition.PCA.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Decomposition.PCA.html",
+          "hash": "iOzZvI/sSTY9qC18dApqEQ=="
         }
       },
       "is_incremental": false,
@@ -74,11 +86,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Decomposition.PCA.yml",
+      "source_relative_path": "api/Tensor.Algorithm.Decomposition.PCAInfo-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Decomposition.PCA.html",
-          "hash": "iOzZvI/sSTY9qC18dApqEQ=="
+          "relative_path": "api/Tensor.Algorithm.Decomposition.PCAInfo-1.html",
+          "hash": "r12lBJrqqV5EFadmrBfLqg=="
         }
       },
       "is_incremental": false,
@@ -122,11 +134,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Decomposition.PCAInfo-1.yml",
+      "source_relative_path": "api/Tensor.Algorithm.Decomposition.ZCA.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Decomposition.PCAInfo-1.html",
-          "hash": "r12lBJrqqV5EFadmrBfLqg=="
+          "relative_path": "api/Tensor.Algorithm.Decomposition.ZCA.html",
+          "hash": "fwEihxTP+Vi9QfrmfiXlOg=="
         }
       },
       "is_incremental": false,
@@ -170,11 +182,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Decomposition.ZCA.yml",
+      "source_relative_path": "api/Tensor.Algorithm.LinAlg.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Decomposition.ZCA.html",
-          "hash": "fwEihxTP+Vi9QfrmfiXlOg=="
+          "relative_path": "api/Tensor.Algorithm.LinAlg.html",
+          "hash": "T7+CZF2t2l7kRuQ1l0c5Yw=="
         }
       },
       "is_incremental": false,
@@ -242,11 +254,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.LinAlg.yml",
+      "source_relative_path": "api/Tensor.Algorithm.NPYFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.LinAlg.html",
-          "hash": "T7+CZF2t2l7kRuQ1l0c5Yw=="
+          "relative_path": "api/Tensor.Algorithm.NPYFile.html",
+          "hash": "kQl3cKNPXb08+J0YC2HTrg=="
         }
       },
       "is_incremental": false,
@@ -278,11 +290,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.NPYFile.yml",
+      "source_relative_path": "api/Tensor.Algorithm.NPZFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.NPYFile.html",
-          "hash": "kQl3cKNPXb08+J0YC2HTrg=="
+          "relative_path": "api/Tensor.Algorithm.NPZFile.html",
+          "hash": "+ozKJd0QTuiU7fC14kz7aQ=="
         }
       },
       "is_incremental": false,
@@ -362,11 +374,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.NPZFile.yml",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.NPZFile.html",
-          "hash": "+ozKJd0QTuiU7fC14kz7aQ=="
+          "relative_path": "api/Tensor.Algorithm.Rat.html",
+          "hash": "ZOHUtF0ZycEE1R8wdYJQdg=="
         }
       },
       "is_incremental": false,
@@ -377,8 +389,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.MinValue.html",
-          "hash": "XXTuxdhs/KrhH7HNFFohLA=="
+          "relative_path": "api/Tensor.Algorithm.Rat.isNaN.html",
+          "hash": "hW8QWaaIiaDbL0dW5e2TkA=="
         }
       },
       "is_incremental": false,
@@ -389,8 +401,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.MaxValue.html",
-          "hash": "rdf7ZMtD21k8qflgiJtunw=="
+          "relative_path": "api/Tensor.Algorithm.Rat.isNegInf.html",
+          "hash": "6ha5cJtEiBCN8AM9/gbgPQ=="
         }
       },
       "is_incremental": false,
@@ -401,8 +413,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.IsPosInf.html",
-          "hash": "iSMWFsamPoUoViOEr3uXLg=="
+          "relative_path": "api/Tensor.Algorithm.Rat.isPosInf.html",
+          "hash": "BUx/wUrHuDizOAcemhgCWA=="
         }
       },
       "is_incremental": false,
@@ -413,8 +425,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.IsNegInf.html",
-          "hash": "hoP15HXGgU7RDai184pleQ=="
+          "relative_path": "api/Tensor.Algorithm.Rat.num.html",
+          "hash": "1rKchNw1gu7CyjMJHQ+tEQ=="
         }
       },
       "is_incremental": false,
@@ -425,8 +437,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.IsNaN.html",
-          "hash": "3/EeyCKuQg3DeboaP2u3sw=="
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Addition.html",
+          "hash": "Ox9Ng/0fCbvYb7t2Tzt1Tw=="
         }
       },
       "is_incremental": false,
@@ -437,8 +449,128 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.IsInt.html",
-          "hash": "H/mw5PCiL7qQLxvvA5tJbQ=="
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Division.html",
+          "hash": "6IrfiEiwYi0geY6Jma+9NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_bigint.html",
+          "hash": "XSWksSV+5lBDfDsBap7Icw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_int32.html",
+          "hash": "7spPJGYlYCAT69JVDBsGIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_uint32.html",
+          "hash": "Td6vUgeJQUBKWv1ptJKTTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_int64.html",
+          "hash": "caQUrar5uiRAuNO2v8ea+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_uint64.html",
+          "hash": "ZR1SzDuC57yz3umm2Q8jaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_double.html",
+          "hash": "0WBQ8w3sSvm0LUiaeNUq/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_single.html",
+          "hash": "W2EJ8MaSdVv3pYNDs+/hZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Implicit.html",
+          "hash": "VeiEH1jlEHNBJjBOu3i9Hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Modulus.html",
+          "hash": "mdkJR20/wIICQ1A6VBc3NQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.Rat.op_Multiply.html",
+          "hash": "bOS+yHUOUqCrOyJN+t/M1A=="
         }
       },
       "is_incremental": false,
@@ -487,18 +619,6 @@
         ".html": {
           "relative_path": "api/Tensor.Algorithm.Rat.Num.html",
           "hash": "zoAYZETI5QfKcH1NarswcQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.html",
-          "hash": "ZOHUtF0ZycEE1R8wdYJQdg=="
         }
       },
       "is_incremental": false,
@@ -629,8 +749,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_uint64.html",
-          "hash": "ZR1SzDuC57yz3umm2Q8jaw=="
+          "relative_path": "api/Tensor.Algorithm.Rat.Truncate.html",
+          "hash": "d2DQ42+eZvybc8Rp4Dt5hg=="
         }
       },
       "is_incremental": false,
@@ -641,8 +761,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_double.html",
-          "hash": "0WBQ8w3sSvm0LUiaeNUq/A=="
+          "relative_path": "api/Tensor.Algorithm.Rat.dnm.html",
+          "hash": "HlF3RR1hIz76IPTtRA1/lQ=="
         }
       },
       "is_incremental": false,
@@ -653,8 +773,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_single.html",
-          "hash": "W2EJ8MaSdVv3pYNDs+/hZQ=="
+          "relative_path": "api/Tensor.Algorithm.Rat.get_Sign.html",
+          "hash": "gW9jjslcPSQ3+hwca7pohg=="
         }
       },
       "is_incremental": false,
@@ -665,8 +785,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Implicit.html",
-          "hash": "VeiEH1jlEHNBJjBOu3i9Hg=="
+          "relative_path": "api/Tensor.Algorithm.Rat.isFinite.html",
+          "hash": "SCb6llOQyT6+y6DdYKyvbA=="
         }
       },
       "is_incremental": false,
@@ -677,8 +797,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Modulus.html",
-          "hash": "mdkJR20/wIICQ1A6VBc3NQ=="
+          "relative_path": "api/Tensor.Algorithm.Rat.isInf.html",
+          "hash": "754NTo0u09Z52q3roVl4iQ=="
         }
       },
       "is_incremental": false,
@@ -689,8 +809,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Multiply.html",
-          "hash": "bOS+yHUOUqCrOyJN+t/M1A=="
+          "relative_path": "api/Tensor.Algorithm.Rat.isInteger.html",
+          "hash": "2gPIZBfkpXSF3JOJeG9BFQ=="
         }
       },
       "is_incremental": false,
@@ -821,8 +941,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.Truncate.html",
-          "hash": "d2DQ42+eZvybc8Rp4Dt5hg=="
+          "relative_path": "api/Tensor.Algorithm.Rat.MinValue.html",
+          "hash": "XXTuxdhs/KrhH7HNFFohLA=="
         }
       },
       "is_incremental": false,
@@ -833,8 +953,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.dnm.html",
-          "hash": "HlF3RR1hIz76IPTtRA1/lQ=="
+          "relative_path": "api/Tensor.Algorithm.Rat.MaxValue.html",
+          "hash": "rdf7ZMtD21k8qflgiJtunw=="
         }
       },
       "is_incremental": false,
@@ -845,8 +965,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.get_Sign.html",
-          "hash": "gW9jjslcPSQ3+hwca7pohg=="
+          "relative_path": "api/Tensor.Algorithm.Rat.IsPosInf.html",
+          "hash": "iSMWFsamPoUoViOEr3uXLg=="
         }
       },
       "is_incremental": false,
@@ -857,8 +977,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.isFinite.html",
-          "hash": "SCb6llOQyT6+y6DdYKyvbA=="
+          "relative_path": "api/Tensor.Algorithm.Rat.IsNegInf.html",
+          "hash": "hoP15HXGgU7RDai184pleQ=="
         }
       },
       "is_incremental": false,
@@ -869,8 +989,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.isInf.html",
-          "hash": "754NTo0u09Z52q3roVl4iQ=="
+          "relative_path": "api/Tensor.Algorithm.Rat.IsNaN.html",
+          "hash": "3/EeyCKuQg3DeboaP2u3sw=="
         }
       },
       "is_incremental": false,
@@ -881,140 +1001,8 @@
       "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.isInteger.html",
-          "hash": "2gPIZBfkpXSF3JOJeG9BFQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.isNaN.html",
-          "hash": "hW8QWaaIiaDbL0dW5e2TkA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.isNegInf.html",
-          "hash": "6ha5cJtEiBCN8AM9/gbgPQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.isPosInf.html",
-          "hash": "BUx/wUrHuDizOAcemhgCWA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.num.html",
-          "hash": "1rKchNw1gu7CyjMJHQ+tEQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Addition.html",
-          "hash": "Ox9Ng/0fCbvYb7t2Tzt1Tw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Division.html",
-          "hash": "6IrfiEiwYi0geY6Jma+9NA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_bigint.html",
-          "hash": "XSWksSV+5lBDfDsBap7Icw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_int32.html",
-          "hash": "7spPJGYlYCAT69JVDBsGIw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_uint32.html",
-          "hash": "Td6vUgeJQUBKWv1ptJKTTw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.Rat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.Rat.op_Explicit_int64.html",
-          "hash": "caQUrar5uiRAuNO2v8ea+w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Algorithm.RatRecognizers.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Algorithm.RatRecognizers.-RatFrac-RatInt-RatPosInf-RatNegInf-RatNaN-.html",
-          "hash": "n4lygwdLP0iLknoDYTbyhg=="
+          "relative_path": "api/Tensor.Algorithm.Rat.IsInt.html",
+          "hash": "H/mw5PCiL7qQLxvvA5tJbQ=="
         }
       },
       "is_incremental": false,
@@ -1039,6 +1027,18 @@
         ".html": {
           "relative_path": "api/Tensor.Algorithm.RatRecognizers.-Rat-.html",
           "hash": "NibVnbMtOvlrnxDPOKLUDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Algorithm.RatRecognizers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Algorithm.RatRecognizers.-RatFrac-RatInt-RatPosInf-RatNegInf-RatNaN-.html",
+          "hash": "n4lygwdLP0iLknoDYTbyhg=="
         }
       },
       "is_incremental": false,
@@ -1205,272 +1205,8 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.LessOrEqual.html",
-          "hash": "uQrklJl1CBN7Y9jBd1HHfQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Log.html",
-          "hash": "6oXKMcrgCkuSQkPu8HLe+g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Log10.html",
-          "hash": "Uu4Aj+a1VjQnrBtBqDDDFQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MaskedGet.html",
-          "hash": "OGdTMggo7FHuhzR656RKdQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MaskedSet.html",
-          "hash": "kkDwBR4xCQ4sr3Nj4ISOdQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MatMatDot.html",
-          "hash": "ShUFy+SFqL1evAjVFl+ebQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MatVecDot.html",
-          "hash": "ME22dK+t1IaJTzR2bcHCug=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MaxElemwise.html",
-          "hash": "KspkcdffGlk8hFCdO3N9JQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MaxLastAxis.html",
-          "hash": "D6koKvwM2Hq6dfj25ceKXg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MinElemwise.html",
-          "hash": "yf58myXnP9OfPDaeB0dQlw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MinLastAxis.html",
-          "hash": "0ZYGaEyHzioM1vo3KXKgNA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Modulo.html",
-          "hash": "xIRnyRWqb1cywYg+ZmJ+XQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Multiply.html",
-          "hash": "szgqqyvwCCNMqpQTtEjyUQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Negate.html",
-          "hash": "WbWczW3qPknxicIHnUWkHQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.NotEqual.html",
-          "hash": "/Ap92FzdIN8d0BJe64SIUA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Or.html",
-          "hash": "XOF6vfmjNdsx5AFDyZH/kw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Cos.html",
-          "hash": "9ZFlwqW5pqHRoX//39M9FQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Cosh.html",
-          "hash": "gd78fo1o29JCRC4/PQBzkQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.CountTrueLastAxis.html",
-          "hash": "krNm9G1Sdv9Bvdst/4A4WQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Divide.html",
-          "hash": "uOrwBz+x7Jw2LeR1z8x2LA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Equal.html",
-          "hash": "Vgn9C70qhq/2QGGNnnmRbA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Exp.html",
-          "hash": "D7KHGqfPuSq02YJNgNRNeg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.FillConst.html",
-          "hash": "xqa7UvImPDeEtLyOOEkstQ=="
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.html",
+          "hash": "HR1DSrzi7NbKpssCOf2XXw=="
         }
       },
       "is_incremental": false,
@@ -1589,8 +1325,8 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.UnaryMinus.html",
-          "hash": "OwmKvbe2dcQUVTNv+QUVAw=="
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.LessOrEqual.html",
+          "hash": "uQrklJl1CBN7Y9jBd1HHfQ=="
         }
       },
       "is_incremental": false,
@@ -1601,8 +1337,8 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.UnaryPlus.html",
-          "hash": "NmGfGrIZjtZkGSB8J26AtA=="
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Log.html",
+          "hash": "6oXKMcrgCkuSQkPu8HLe+g=="
         }
       },
       "is_incremental": false,
@@ -1613,8 +1349,8 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.VecVecDot.html",
-          "hash": "PcHpJwZPOK1eRAqH7BQhPw=="
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Log10.html",
+          "hash": "Uu4Aj+a1VjQnrBtBqDDDFQ=="
         }
       },
       "is_incremental": false,
@@ -1625,8 +1361,8 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Xor.html",
-          "hash": "XN3IUx8RHOya6Jy8H9n82A=="
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MaskedGet.html",
+          "hash": "OGdTMggo7FHuhzR656RKdQ=="
         }
       },
       "is_incremental": false,
@@ -1637,8 +1373,8 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Item.html",
-          "hash": "FtQhSHoyqOThODfE7CugVQ=="
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MaskedSet.html",
+          "hash": "kkDwBR4xCQ4sr3Nj4ISOdQ=="
         }
       },
       "is_incremental": false,
@@ -1649,8 +1385,8 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.html",
-          "hash": "HR1DSrzi7NbKpssCOf2XXw=="
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MatMatDot.html",
+          "hash": "ShUFy+SFqL1evAjVFl+ebQ=="
         }
       },
       "is_incremental": false,
@@ -1661,80 +1397,8 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Power.html",
-          "hash": "6KBByVKWhgJ9B4TitOWTyg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.ProductLastAxis.html",
-          "hash": "FngYYqw+lIxoj9NSfy42Hw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Round.html",
-          "hash": "7ta5zCJkXX2Kc5OXnwMnrQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Scatter.html",
-          "hash": "sIRo+N3oFewMG1i8eqohuw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Sgn.html",
-          "hash": "Vbpsa/Lr6kqHynbU3tgjug=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Sin.html",
-          "hash": "gTFHawlez43JB5M/IBDCxg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Sinh.html",
-          "hash": "i4a79YaW7C7V7ltZqRPyZg=="
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MatVecDot.html",
+          "hash": "ME22dK+t1IaJTzR2bcHCug=="
         }
       },
       "is_incremental": false,
@@ -1853,6 +1517,66 @@
       "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
       "output": {
         ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.UnaryMinus.html",
+          "hash": "OwmKvbe2dcQUVTNv+QUVAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.UnaryPlus.html",
+          "hash": "NmGfGrIZjtZkGSB8J26AtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.VecVecDot.html",
+          "hash": "PcHpJwZPOK1eRAqH7BQhPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Xor.html",
+          "hash": "XN3IUx8RHOya6Jy8H9n82A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Item.html",
+          "hash": "FtQhSHoyqOThODfE7CugVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
           "relative_path": "api/Tensor.Backend.ITensorBackend-1.Abs.html",
           "hash": "aJniqRSxMp7gBaHG2uXGaQ=="
         }
@@ -1927,6 +1651,198 @@
         ".html": {
           "relative_path": "api/Tensor.Backend.ITensorBackend-1.ArgMaxLastAxis.html",
           "hash": "Bwebn5GUkAjt/Zl1nhZh1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MaxElemwise.html",
+          "hash": "KspkcdffGlk8hFCdO3N9JQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MaxLastAxis.html",
+          "hash": "D6koKvwM2Hq6dfj25ceKXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MinElemwise.html",
+          "hash": "yf58myXnP9OfPDaeB0dQlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.MinLastAxis.html",
+          "hash": "0ZYGaEyHzioM1vo3KXKgNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Modulo.html",
+          "hash": "xIRnyRWqb1cywYg+ZmJ+XQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Multiply.html",
+          "hash": "szgqqyvwCCNMqpQTtEjyUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Negate.html",
+          "hash": "WbWczW3qPknxicIHnUWkHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.NotEqual.html",
+          "hash": "/Ap92FzdIN8d0BJe64SIUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Or.html",
+          "hash": "XOF6vfmjNdsx5AFDyZH/kw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Power.html",
+          "hash": "6KBByVKWhgJ9B4TitOWTyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.ProductLastAxis.html",
+          "hash": "FngYYqw+lIxoj9NSfy42Hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Round.html",
+          "hash": "7ta5zCJkXX2Kc5OXnwMnrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Scatter.html",
+          "hash": "sIRo+N3oFewMG1i8eqohuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Sgn.html",
+          "hash": "Vbpsa/Lr6kqHynbU3tgjug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Sin.html",
+          "hash": "gTFHawlez43JB5M/IBDCxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Sinh.html",
+          "hash": "i4a79YaW7C7V7ltZqRPyZg=="
         }
       },
       "is_incremental": false,
@@ -2035,6 +1951,90 @@
         ".html": {
           "relative_path": "api/Tensor.Backend.ITensorBackend-1.Copy.html",
           "hash": "IRiyR1rVpWeECB6kd6HF6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Cos.html",
+          "hash": "9ZFlwqW5pqHRoX//39M9FQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Cosh.html",
+          "hash": "gd78fo1o29JCRC4/PQBzkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.CountTrueLastAxis.html",
+          "hash": "krNm9G1Sdv9Bvdst/4A4WQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Divide.html",
+          "hash": "uOrwBz+x7Jw2LeR1z8x2LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Equal.html",
+          "hash": "Vgn9C70qhq/2QGGNnnmRbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.Exp.html",
+          "hash": "D7KHGqfPuSq02YJNgNRNeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.ITensorBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.ITensorBackend-1.FillConst.html",
+          "hash": "xqa7UvImPDeEtLyOOEkstQ=="
         }
       },
       "is_incremental": false,
@@ -2393,320 +2393,8 @@
       "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.check.html",
-          "hash": "cNLam9OW67og3wxNYHxHPw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.checkIndex.html",
-          "hash": "q2QG9tljt0CiJeONxlT/Jg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.addr.html",
-          "hash": "tKOhFcqdPr2iD9iQkP7HIA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.shape.html",
-          "hash": "jJ9SeAW3nZ+3Y+aze0/Klg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.stride.html",
-          "hash": "MfkIiZmbfGEh5pY7QrLhHQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.offset.html",
-          "hash": "BUu9/I5JdzmME06qwogT6w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
           "relative_path": "api/Tensor.Backend.TensorLayoutModule.html",
           "hash": "6E5LsODKMU5p2ceV92azHQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.canReshape.html",
-          "hash": "+rHmYdZWm0ZncoPyZoJyoQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.reshape.html",
-          "hash": "Z9TIywRq0jqe8h7TKuwGJw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.swapDim.html",
-          "hash": "r4kbqn+U7qJG90BzAlAZKQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.transpose.html",
-          "hash": "5KOf+uB1ga4K2UhRR3V0Lw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.permuteAxes.html",
-          "hash": "47kA/kCWx1KGXzJo/yQQZQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.reverseAxis.html",
-          "hash": "HBJfP6ScDG/kxZvl1u8sTQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.view.html",
-          "hash": "0ZrbM47Tn12a0V+VDK0xbA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.allSrcRngsAndTrgtIdxsForAxisReduce.html",
-          "hash": "+0mN7lFYmA9DfgOQSYNOqw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.diagAxis.html",
-          "hash": "ObW7A0lVBRjwOocR3sg0dA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.idxToLinear.html",
-          "hash": "TKCvwIIMZuHwaYEXINMXBQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.linearToIdx.html",
-          "hash": "Y8AA/3D4m28GVO33VDUOfQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.nDims.html",
-          "hash": "3DScJ1fhFSc4KIhgiK3osw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.nElems.html",
-          "hash": "MF4xiaIafsc9oumTMqdrwA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.checkAxis.html",
-          "hash": "rZ0IVC4xtynUwfSYNVM5WA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.allIdxOfShape.html",
-          "hash": "Mo6zwOUAh5jvuOXERpvJlw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.allIdx.html",
-          "hash": "Lt4f0ckFYLVB0CHaq0tDuQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.allIdxOfDim.html",
-          "hash": "0UCxBK/QATo6RsArRmr0BA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.orderedStride.html",
-          "hash": "Op7NFzpzrWEVU0xft+kzqg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.cStride.html",
-          "hash": "9ym+qgxUU/1mJm1A9JLGtg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Backend.TensorLayoutModule.fStride.html",
-          "hash": "p8EIXl+TgVELXk3bH4cXdw=="
         }
       },
       "is_incremental": false,
@@ -2909,6 +2597,30 @@
       "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
       "output": {
         ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.idxToLinear.html",
+          "hash": "TKCvwIIMZuHwaYEXINMXBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.linearToIdx.html",
+          "hash": "Y8AA/3D4m28GVO33VDUOfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
           "relative_path": "api/Tensor.Backend.TensorLayoutModule.broadcastToSameInDims.html",
           "hash": "X8Jh5KtF9wibsHtd7qT1TQ=="
         }
@@ -2990,6 +2702,294 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.canReshape.html",
+          "hash": "+rHmYdZWm0ZncoPyZoJyoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.reshape.html",
+          "hash": "Z9TIywRq0jqe8h7TKuwGJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.swapDim.html",
+          "hash": "r4kbqn+U7qJG90BzAlAZKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.transpose.html",
+          "hash": "5KOf+uB1ga4K2UhRR3V0Lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.permuteAxes.html",
+          "hash": "47kA/kCWx1KGXzJo/yQQZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.reverseAxis.html",
+          "hash": "HBJfP6ScDG/kxZvl1u8sTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.view.html",
+          "hash": "0ZrbM47Tn12a0V+VDK0xbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.allSrcRngsAndTrgtIdxsForAxisReduce.html",
+          "hash": "+0mN7lFYmA9DfgOQSYNOqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.diagAxis.html",
+          "hash": "ObW7A0lVBRjwOocR3sg0dA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.check.html",
+          "hash": "cNLam9OW67og3wxNYHxHPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.checkIndex.html",
+          "hash": "q2QG9tljt0CiJeONxlT/Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.addr.html",
+          "hash": "tKOhFcqdPr2iD9iQkP7HIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.shape.html",
+          "hash": "jJ9SeAW3nZ+3Y+aze0/Klg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.stride.html",
+          "hash": "MfkIiZmbfGEh5pY7QrLhHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.offset.html",
+          "hash": "BUu9/I5JdzmME06qwogT6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.nDims.html",
+          "hash": "3DScJ1fhFSc4KIhgiK3osw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.nElems.html",
+          "hash": "MF4xiaIafsc9oumTMqdrwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.checkAxis.html",
+          "hash": "rZ0IVC4xtynUwfSYNVM5WA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.allIdxOfShape.html",
+          "hash": "Mo6zwOUAh5jvuOXERpvJlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.allIdx.html",
+          "hash": "Lt4f0ckFYLVB0CHaq0tDuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.allIdxOfDim.html",
+          "hash": "0UCxBK/QATo6RsArRmr0BA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.orderedStride.html",
+          "hash": "Op7NFzpzrWEVU0xft+kzqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.cStride.html",
+          "hash": "9ym+qgxUU/1mJm1A9JLGtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Backend.TensorLayoutModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Backend.TensorLayoutModule.fStride.html",
+          "hash": "p8EIXl+TgVELXk3bH4cXdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Tensor.Backend.yml",
       "output": {
         ".html": {
@@ -3041,6 +3041,18 @@
       "source_relative_path": "api/Tensor.Cuda.CannotCudaRegisterMemoryException.yml",
       "output": {
         ".html": {
+          "relative_path": "api/Tensor.Cuda.CannotCudaRegisterMemoryException.html",
+          "hash": "ro04zqcn3AKo3GPTzKPZYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.CannotCudaRegisterMemoryException.yml",
+      "output": {
+        ".html": {
           "relative_path": "api/Tensor.Cuda.CannotCudaRegisterMemoryException.Message.html",
           "hash": "ykixfdqpZX9dtkIXA8k+BA=="
         }
@@ -3062,11 +3074,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.CannotCudaRegisterMemoryException.yml",
+      "source_relative_path": "api/Tensor.Cuda.Cfg.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Cuda.CannotCudaRegisterMemoryException.html",
-          "hash": "ro04zqcn3AKo3GPTzKPZYA=="
+          "relative_path": "api/Tensor.Cuda.Cfg.html",
+          "hash": "VFJWZiW3gdafbBmoAET8Ag=="
         }
       },
       "is_incremental": false,
@@ -3139,18 +3151,6 @@
         ".html": {
           "relative_path": "api/Tensor.Cuda.Cfg.DebugCompile.html",
           "hash": "GxG9HBvHcemT3LqSR3aNwQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.Cfg.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.Cfg.html",
-          "hash": "VFJWZiW3gdafbBmoAET8Ag=="
         }
       },
       "is_incremental": false,
@@ -3293,8 +3293,8 @@
       "source_relative_path": "api/Tensor.Cuda.ITensorCudaBackend.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Cuda.ITensorCudaBackend.NativeTensor.html",
-          "hash": "34huUbRgFPAffmS+oON8sg=="
+          "relative_path": "api/Tensor.Cuda.ITensorCudaBackend.html",
+          "hash": "7Vflg6MtrXvTRPbF7Ru2GA=="
         }
       },
       "is_incremental": false,
@@ -3305,8 +3305,20 @@
       "source_relative_path": "api/Tensor.Cuda.ITensorCudaBackend.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Cuda.ITensorCudaBackend.html",
-          "hash": "7Vflg6MtrXvTRPbF7Ru2GA=="
+          "relative_path": "api/Tensor.Cuda.ITensorCudaBackend.NativeTensor.html",
+          "hash": "34huUbRgFPAffmS+oON8sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.ITensorCudaStorage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.ITensorCudaStorage.html",
+          "hash": "I+XbOTKPArrjON+RovFbdQ=="
         }
       },
       "is_incremental": false,
@@ -3343,18 +3355,6 @@
         ".html": {
           "relative_path": "api/Tensor.Cuda.ITensorCudaStorage.ByteData.html",
           "hash": "tq0XI9gCA1Gh+zrrj4+YWQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.ITensorCudaStorage.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.ITensorCudaStorage.html",
-          "hash": "I+XbOTKPArrjON+RovFbdQ=="
         }
       },
       "is_incremental": false,
@@ -3437,6 +3437,18 @@
       "source_relative_path": "api/Tensor.Cuda.NativeTensor.yml",
       "output": {
         ".html": {
+          "relative_path": "api/Tensor.Cuda.NativeTensor.html",
+          "hash": "WxiZlWWpoJQD+H2o236L/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.NativeTensor.yml",
+      "output": {
+        ".html": {
           "relative_path": "api/Tensor.Cuda.NativeTensor.DataType.html",
           "hash": "cA2t2t4WV5tg6xSAc6iMFw=="
         }
@@ -3506,11 +3518,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.NativeTensor.yml",
+      "source_relative_path": "api/Tensor.Cuda.OutOfCudaMemoryException.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Cuda.NativeTensor.html",
-          "hash": "WxiZlWWpoJQD+H2o236L/Q=="
+          "relative_path": "api/Tensor.Cuda.OutOfCudaMemoryException.html",
+          "hash": "ZRkLIgzsOAd1cCHglzmCog=="
         }
       },
       "is_incremental": false,
@@ -3542,167 +3554,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.OutOfCudaMemoryException.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.OutOfCudaMemoryException.html",
-          "hash": "ZRkLIgzsOAd1cCHglzmCog=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
       "output": {
         ".html": {
           "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.html",
           "hash": "XEGxgB/TL/HObcRsZ1tiTg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.-ctor.html",
-          "hash": "B0hQKEa5SnoMXpwZTlxZOg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Abs.html",
-          "hash": "M7xkY4LITmmQ4zAuXd6S0w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Acos.html",
-          "hash": "4LrLsZjJ2CRs/z2JqBRK8A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Add.html",
-          "hash": "8fsRSS7wTl2s0ZKQ4ZD54Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-AllLastAxis.html",
-          "hash": "sYDznse1okrppCwWSnC+dg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-And.html",
-          "hash": "iWTy4vw4QFnkEVs+eNyndw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-AnyLastAxis.html",
-          "hash": "4YD6o//I8yfaNKsfa+ZDZA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-ArgMaxLastAxis.html",
-          "hash": "NCPsnjQ32vvJTteSobTTPg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-ArgMinLastAxis.html",
-          "hash": "1RPaPEiUqL2eh6bXoplgWA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Asin.html",
-          "hash": "u3L2LFkAE4c+ZJQXSAtd9g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Atan.html",
-          "hash": "aDw5B4xlw5b3hcI42+cu5g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-BatchedInvert.html",
-          "hash": "GHpviTFRDv/pnJHd2XlBjw=="
         }
       },
       "is_incremental": false,
@@ -3905,6 +3761,150 @@
       "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
       "output": {
         ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.-ctor.html",
+          "hash": "B0hQKEa5SnoMXpwZTlxZOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Abs.html",
+          "hash": "M7xkY4LITmmQ4zAuXd6S0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Acos.html",
+          "hash": "4LrLsZjJ2CRs/z2JqBRK8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Add.html",
+          "hash": "8fsRSS7wTl2s0ZKQ4ZD54Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-AllLastAxis.html",
+          "hash": "sYDznse1okrppCwWSnC+dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-And.html",
+          "hash": "iWTy4vw4QFnkEVs+eNyndw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-AnyLastAxis.html",
+          "hash": "4YD6o//I8yfaNKsfa+ZDZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-ArgMaxLastAxis.html",
+          "hash": "NCPsnjQ32vvJTteSobTTPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-ArgMinLastAxis.html",
+          "hash": "1RPaPEiUqL2eh6bXoplgWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Asin.html",
+          "hash": "u3L2LFkAE4c+ZJQXSAtd9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Atan.html",
+          "hash": "aDw5B4xlw5b3hcI42+cu5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-BatchedInvert.html",
+          "hash": "GHpviTFRDv/pnJHd2XlBjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
           "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Greater.html",
           "hash": "PRSQ+jPEvKvpRz/1XUSz8A=="
         }
@@ -4087,6 +4087,150 @@
         ".html": {
           "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-MinLastAxis.html",
           "hash": "RKpuePh9Fh5lUMzrETCCow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Tan.html",
+          "hash": "Qisi0JlHpaKzxKycQ1XPzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Tanh.html",
+          "hash": "moezIpQxCJWx+zvPcoqs7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Transfer.html",
+          "hash": "0lpJQwwy94+Zm9f+cU75Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-TrueIndices.html",
+          "hash": "WHMrCReL0LFdIb4Vqj2sbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Truncate.html",
+          "hash": "clFYVkfS+FvnuJEZoYz0JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-UnaryMinus.html",
+          "hash": "pHApOi/BnhEc5nnxjA3iMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-UnaryPlus.html",
+          "hash": "5uGTvtsBP7jHuF8HGp0f0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-VecVecDot.html",
+          "hash": "B17w3jJkiv7sswGjtCnQkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Xor.html",
+          "hash": "yN2uaeHxzDF0U0Stp9FtCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-get_Item.html",
+          "hash": "qrM52LNQzXbWdMmGWZuCeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-set_Item.html",
+          "hash": "LZmPqR+VrWF+bbwyh3KivQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.DevicePtr.html",
+          "hash": "Ku6+2yWY6CYYTQ9Rm1uZiQ=="
         }
       },
       "is_incremental": false,
@@ -4286,150 +4430,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Tan.html",
-          "hash": "Qisi0JlHpaKzxKycQ1XPzQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Tanh.html",
-          "hash": "moezIpQxCJWx+zvPcoqs7g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Transfer.html",
-          "hash": "0lpJQwwy94+Zm9f+cU75Ug=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-TrueIndices.html",
-          "hash": "WHMrCReL0LFdIb4Vqj2sbw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Truncate.html",
-          "hash": "clFYVkfS+FvnuJEZoYz0JA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-UnaryMinus.html",
-          "hash": "pHApOi/BnhEc5nnxjA3iMw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-UnaryPlus.html",
-          "hash": "5uGTvtsBP7jHuF8HGp0f0g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-VecVecDot.html",
-          "hash": "B17w3jJkiv7sswGjtCnQkQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Xor.html",
-          "hash": "yN2uaeHxzDF0U0Stp9FtCw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-get_Item.html",
-          "hash": "qrM52LNQzXbWdMmGWZuCeA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-set_Item.html",
-          "hash": "LZmPqR+VrWF+bbwyh3KivQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaBackend-1.DevicePtr.html",
-          "hash": "Ku6+2yWY6CYYTQ9Rm1uZiQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/Tensor.Cuda.TensorCudaDevice.yml",
       "output": {
         ".html": {
@@ -4493,20 +4493,8 @@
       "source_relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.Tensor-Backend-ITensorStorage-1-get_Dev.html",
-          "hash": "xVA5D2tmmaqyJ5r17uyBrw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.Item.html",
-          "hash": "HzoCkxJOIKqEUd5yNtB/mg=="
+          "relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.html",
+          "hash": "CQLr7+QV1/aRNQ90TD1aRQ=="
         }
       },
       "is_incremental": false,
@@ -4565,18 +4553,6 @@
       "source_relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.html",
-          "hash": "CQLr7+QV1/aRNQ90TD1aRQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.yml",
-      "output": {
-        ".html": {
           "relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.-ctor.html",
           "hash": "Vn0VgOQLui6ndyoMxI/otg=="
         }
@@ -4603,6 +4579,30 @@
         ".html": {
           "relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.Finalize.html",
           "hash": "Osqb7ni+tLeg8q0nQk6pXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.Tensor-Backend-ITensorStorage-1-get_Dev.html",
+          "hash": "xVA5D2tmmaqyJ5r17uyBrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Cuda.TensorCudaStorage-1.Item.html",
+          "hash": "HzoCkxJOIKqEUd5yNtB/mg=="
         }
       },
       "is_incremental": false,
@@ -4889,6 +4889,18 @@
       "source_relative_path": "api/Tensor.HDF5.yml",
       "output": {
         ".html": {
+          "relative_path": "api/Tensor.HDF5.Write.html",
+          "hash": "d4GiwGY06ugSmoPsBmPt/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HDF5.yml",
+      "output": {
+        ".html": {
           "relative_path": "api/Tensor.HDF5.GetAttribute.html",
           "hash": "JfaxyLXb68nesNLm4BoYFw=="
         }
@@ -4975,18 +4987,6 @@
         ".html": {
           "relative_path": "api/Tensor.HDF5.SetRecord.html",
           "hash": "mF/Uf2POCCkO5jT4NL6RLw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HDF5.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HDF5.Write.html",
-          "hash": "d4GiwGY06ugSmoPsBmPt/g=="
         }
       },
       "is_incremental": false,
@@ -5129,92 +5129,8 @@
       "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.-ctor.html",
-          "hash": "q414BsjnOuhCdHTBWX6GjA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Abs.html",
-          "hash": "caHLARALZNUTo/5i6EWH4Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Acos.html",
-          "hash": "yWVBJmPJCf4HC0eFBcP7IQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Add.html",
-          "hash": "jXT6uhEdxLUGCegmtlLMuA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-AllLastAxis.html",
-          "hash": "GrCLyIwGjfaborNATVPehQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-And.html",
-          "hash": "gubLmkO7eR1CepuXI/hDDQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-AnyLastAxis.html",
-          "hash": "SdoKGRMnDdkdOjxHWPW5PA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-ArgMaxLastAxis.html",
-          "hash": "JC7BG237gc8ZlQPfMrDQYg=="
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.html",
+          "hash": "B3bCsvkNE+R/B1Hr+a91Ew=="
         }
       },
       "is_incremental": false,
@@ -5323,210 +5239,6 @@
         ".html": {
           "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Copy.html",
           "hash": "JUaFOX/+gO9r9Ipgizvqlg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MatVecDot.html",
-          "hash": "IzQ/079KBM8FRaRgUHQNCA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MaxElemwise.html",
-          "hash": "govj4yVOfNiJeg74amIyKQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MaxLastAxis.html",
-          "hash": "CkRD6tZaTqzHqiagvFCA5g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MinElemwise.html",
-          "hash": "OHHnnQVCoJxYhjHRdZn+ew=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MinLastAxis.html",
-          "hash": "IU+cNCND1gGHUde5Cxet4g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Modulo.html",
-          "hash": "0hoi5WRn+XV87u3RT6QfLw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Multiply.html",
-          "hash": "b3U+TcObI9bBXB1yk4umeQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Negate.html",
-          "hash": "LGNGdeCZtJDCfdlLt9HRZg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-NotEqual.html",
-          "hash": "/14WKbfYJrJrKUPCWBRprw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Or.html",
-          "hash": "Up1sFryxgN510VhgOawV7g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Power.html",
-          "hash": "JN0EZ8VLz+cc6yxIB6bvKw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-ProductLastAxis.html",
-          "hash": "F9w85U97DIb2TXfAGkNT9w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Round.html",
-          "hash": "MujpydZV3oCh4y31vqiW9Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Scatter.html",
-          "hash": "4KM8FYLc/pIbfiCAdrSfog=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Sgn.html",
-          "hash": "vxjYnHW5dRP1iyBMg1G9sg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Sin.html",
-          "hash": "7FqjMCUiwQVP7bOBVETVoA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.html",
-          "hash": "B3bCsvkNE+R/B1Hr+a91Ew=="
         }
       },
       "is_incremental": false,
@@ -5729,30 +5441,6 @@
       "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Storage.html",
-          "hash": "400znuZTVoZqSmTPAt1qJw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Data.html",
-          "hash": "L+m61kL45H7FW6Wccl+v+w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
-      "output": {
-        ".html": {
           "relative_path": "api/Tensor.Host.TensorHostBackend-1.System-Collections-IEnumerable-GetEnumerator.html",
           "hash": "BCeGvtcNxObs2k9KmgYP0w=="
         }
@@ -5945,6 +5633,198 @@
       "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
       "output": {
         ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MatVecDot.html",
+          "hash": "IzQ/079KBM8FRaRgUHQNCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MaxElemwise.html",
+          "hash": "govj4yVOfNiJeg74amIyKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MaxLastAxis.html",
+          "hash": "CkRD6tZaTqzHqiagvFCA5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MinElemwise.html",
+          "hash": "OHHnnQVCoJxYhjHRdZn+ew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-MinLastAxis.html",
+          "hash": "IU+cNCND1gGHUde5Cxet4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Modulo.html",
+          "hash": "0hoi5WRn+XV87u3RT6QfLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Multiply.html",
+          "hash": "b3U+TcObI9bBXB1yk4umeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Negate.html",
+          "hash": "LGNGdeCZtJDCfdlLt9HRZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-NotEqual.html",
+          "hash": "/14WKbfYJrJrKUPCWBRprw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Or.html",
+          "hash": "Up1sFryxgN510VhgOawV7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Power.html",
+          "hash": "JN0EZ8VLz+cc6yxIB6bvKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-ProductLastAxis.html",
+          "hash": "F9w85U97DIb2TXfAGkNT9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Round.html",
+          "hash": "MujpydZV3oCh4y31vqiW9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Scatter.html",
+          "hash": "4KM8FYLc/pIbfiCAdrSfog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Sgn.html",
+          "hash": "vxjYnHW5dRP1iyBMg1G9sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Sin.html",
+          "hash": "7FqjMCUiwQVP7bOBVETVoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
           "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Sinh.html",
           "hash": "RyJdoSE5UGRf59E7BSmCjQ=="
         }
@@ -6019,6 +5899,102 @@
         ".html": {
           "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Tanh.html",
           "hash": "qx83DYwIexAcQnH0v5Po6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.-ctor.html",
+          "hash": "q414BsjnOuhCdHTBWX6GjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Abs.html",
+          "hash": "caHLARALZNUTo/5i6EWH4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Acos.html",
+          "hash": "yWVBJmPJCf4HC0eFBcP7IQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-Add.html",
+          "hash": "jXT6uhEdxLUGCegmtlLMuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-AllLastAxis.html",
+          "hash": "GrCLyIwGjfaborNATVPehQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-And.html",
+          "hash": "gubLmkO7eR1CepuXI/hDDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-AnyLastAxis.html",
+          "hash": "SdoKGRMnDdkdOjxHWPW5PA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Tensor-Backend-ITensorBackend-1-ArgMaxLastAxis.html",
+          "hash": "JC7BG237gc8ZlQPfMrDQYg=="
         }
       },
       "is_incremental": false,
@@ -6134,6 +6110,42 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Storage.html",
+          "hash": "400znuZTVoZqSmTPAt1qJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostBackend-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostBackend-1.Data.html",
+          "hash": "L+m61kL45H7FW6Wccl+v+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Host.TensorHostDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.Host.TensorHostDevice.html",
+          "hash": "A/B6WpNBxEADEf44TaTd/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Tensor.Host.TensorHostDevice.yml",
       "output": {
         ".html": {
@@ -6182,11 +6194,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostDevice.yml",
+      "source_relative_path": "api/Tensor.Host.TensorHostStorage-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostDevice.html",
-          "hash": "A/B6WpNBxEADEf44TaTd/g=="
+          "relative_path": "api/Tensor.Host.TensorHostStorage-1.html",
+          "hash": "KzJYPrIwu93izfEE3XvcEw=="
         }
       },
       "is_incremental": false,
@@ -6269,18 +6281,6 @@
       "source_relative_path": "api/Tensor.Host.TensorHostStorage-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Host.TensorHostStorage-1.html",
-          "hash": "KzJYPrIwu93izfEE3XvcEw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Host.TensorHostStorage-1.yml",
-      "output": {
-        ".html": {
           "relative_path": "api/Tensor.Host.TensorHostStorage-1.Tensor-Backend-ITensorStorage-1-get_Dev.html",
           "hash": "6aAxTBInrPXW+tDj/LFVYA=="
         }
@@ -6331,6 +6331,90 @@
         ".html": {
           "relative_path": "api/Tensor.Host.html",
           "hash": "CBJUNpNBllB99mHSPO+p9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.Parallel.html",
+          "hash": "SmcBpgSrsMZSW0W5f75qOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.Parallel.mapi.html",
+          "hash": "+neQlp9/SeqB3RvsNkDhMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.Parallel.map2.html",
+          "hash": "3rdOCnJc7KSInLIj1VijNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.Parallel.mapi2.html",
+          "hash": "ZV/bZJePCX16pvq5vkXjtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.Parallel.foldAxis.html",
+          "hash": "XlzJe9pR6+IYjLRISNt6mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.Parallel.FillIndexed.html",
+          "hash": "KyahYLhLtUBQACYF9s5cyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.Parallel.Fill.html",
+          "hash": "jYApCYggzp9peam2lD3fYA=="
         }
       },
       "is_incremental": false,
@@ -6422,11 +6506,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.Parallel.mapi.html",
-          "hash": "+neQlp9/SeqB3RvsNkDhMg=="
+          "relative_path": "api/Tensor.HostTensor.html",
+          "hash": "V3LFI+NEFOVW+2Un3pTBhg=="
         }
       },
       "is_incremental": false,
@@ -6434,11 +6518,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.Parallel.map2.html",
-          "hash": "3rdOCnJc7KSInLIj1VijNg=="
+          "relative_path": "api/Tensor.HostTensor.toArray2D.html",
+          "hash": "fbJNoNF/NY4o8xJQnoeLfg=="
         }
       },
       "is_incremental": false,
@@ -6446,11 +6530,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.Parallel.mapi2.html",
-          "hash": "ZV/bZJePCX16pvq5vkXjtQ=="
+          "relative_path": "api/Tensor.HostTensor.toArray3D.html",
+          "hash": "6mmSFlgpcRBKwPb/x9WSVw=="
         }
       },
       "is_incremental": false,
@@ -6458,11 +6542,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.Parallel.foldAxis.html",
-          "hash": "XlzJe9pR6+IYjLRISNt6mQ=="
+          "relative_path": "api/Tensor.HostTensor.toArray4D.html",
+          "hash": "CH4mafWmMabIdRfMYA+Nqg=="
         }
       },
       "is_incremental": false,
@@ -6470,11 +6554,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.Parallel.FillIndexed.html",
-          "hash": "KyahYLhLtUBQACYF9s5cyQ=="
+          "relative_path": "api/Tensor.HostTensor.toList.html",
+          "hash": "oIcJSdWSU5G4LrSeR3g8Hw=="
         }
       },
       "is_incremental": false,
@@ -6482,11 +6566,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.Parallel.Fill.html",
-          "hash": "jYApCYggzp9peam2lD3fYA=="
+          "relative_path": "api/Tensor.HostTensor.toList2D.html",
+          "hash": "NIVJ5WZL/wNR+H7O9qjrow=="
         }
       },
       "is_incremental": false,
@@ -6494,11 +6578,47 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.Parallel.yml",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.Parallel.html",
-          "hash": "SmcBpgSrsMZSW0W5f75qOA=="
+          "relative_path": "api/Tensor.HostTensor.write.html",
+          "hash": "a7nDm6x+jIyzbGXqs4Fxlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.read.html",
+          "hash": "ZuT9Gv9su4rvAjd+Sem1Bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.readUntyped.html",
+          "hash": "qhxMtYP3xaZigD6C8GU7cw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.HostTensor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.HostTensor.randomInt.html",
+          "hash": "Xd770jyJcPpOdfW0WP1C8Q=="
         }
       },
       "is_incremental": false,
@@ -6593,90 +6713,6 @@
       "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.mapi.html",
-          "hash": "T89MGLB/kWJ/BwG2GnjS7w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HostTensor.FillMap2.html",
-          "hash": "qi+6X4u19S1mQ9CMDGnXwQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HostTensor.map2.html",
-          "hash": "UAN4zy5AS/x7cZC1EiJmcw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HostTensor.FillMapIndexed2.html",
-          "hash": "k1yKscI+upBqF9qpkzrLZg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HostTensor.mapi2.html",
-          "hash": "DZNNG6X5rQKuJ1u9hO7cNA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HostTensor.FillFoldAxis.html",
-          "hash": "lw2ykTO7IkZOCC/UfvR60g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HostTensor.foldAxis.html",
-          "hash": "xIhswN45BNWTuM+zbnSadw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
           "relative_path": "api/Tensor.HostTensor.Dev().html",
           "hash": "n2fz2tXMlaN91QtmbLpfHw=="
         }
@@ -6703,18 +6739,6 @@
         ".html": {
           "relative_path": "api/Tensor.HostTensor.init.html",
           "hash": "OxIqixbWaB29fGa8VQXHmA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HostTensor.html",
-          "hash": "V3LFI+NEFOVW+2Un3pTBhg=="
         }
       },
       "is_incremental": false,
@@ -7001,8 +7025,8 @@
       "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.toArray2D.html",
-          "hash": "fbJNoNF/NY4o8xJQnoeLfg=="
+          "relative_path": "api/Tensor.HostTensor.mapi.html",
+          "hash": "T89MGLB/kWJ/BwG2GnjS7w=="
         }
       },
       "is_incremental": false,
@@ -7013,8 +7037,8 @@
       "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.toArray3D.html",
-          "hash": "6mmSFlgpcRBKwPb/x9WSVw=="
+          "relative_path": "api/Tensor.HostTensor.FillMap2.html",
+          "hash": "qi+6X4u19S1mQ9CMDGnXwQ=="
         }
       },
       "is_incremental": false,
@@ -7025,8 +7049,8 @@
       "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.toArray4D.html",
-          "hash": "CH4mafWmMabIdRfMYA+Nqg=="
+          "relative_path": "api/Tensor.HostTensor.map2.html",
+          "hash": "UAN4zy5AS/x7cZC1EiJmcw=="
         }
       },
       "is_incremental": false,
@@ -7037,8 +7061,8 @@
       "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.toList.html",
-          "hash": "oIcJSdWSU5G4LrSeR3g8Hw=="
+          "relative_path": "api/Tensor.HostTensor.FillMapIndexed2.html",
+          "hash": "k1yKscI+upBqF9qpkzrLZg=="
         }
       },
       "is_incremental": false,
@@ -7049,8 +7073,8 @@
       "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.toList2D.html",
-          "hash": "NIVJ5WZL/wNR+H7O9qjrow=="
+          "relative_path": "api/Tensor.HostTensor.mapi2.html",
+          "hash": "DZNNG6X5rQKuJ1u9hO7cNA=="
         }
       },
       "is_incremental": false,
@@ -7061,8 +7085,8 @@
       "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.write.html",
-          "hash": "a7nDm6x+jIyzbGXqs4Fxlw=="
+          "relative_path": "api/Tensor.HostTensor.FillFoldAxis.html",
+          "hash": "lw2ykTO7IkZOCC/UfvR60g=="
         }
       },
       "is_incremental": false,
@@ -7073,8 +7097,8 @@
       "source_relative_path": "api/Tensor.HostTensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.read.html",
-          "hash": "ZuT9Gv9su4rvAjd+Sem1Bw=="
+          "relative_path": "api/Tensor.HostTensor.foldAxis.html",
+          "hash": "xIhswN45BNWTuM+zbnSadw=="
         }
       },
       "is_incremental": false,
@@ -7082,23 +7106,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
+      "source_relative_path": "api/Tensor.ITensor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.HostTensor.readUntyped.html",
-          "hash": "qhxMtYP3xaZigD6C8GU7cw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.HostTensor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.HostTensor.randomInt.html",
-          "hash": "Xd770jyJcPpOdfW0WP1C8Q=="
+          "relative_path": "api/Tensor.ITensor.html",
+          "hash": "qi3hm5SOSmu4X8gqA+KYDQ=="
         }
       },
       "is_incremental": false,
@@ -7286,11 +7298,95 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensor.yml",
+      "source_relative_path": "api/Tensor.ITensorModule.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.ITensor.html",
-          "hash": "qi3hm5SOSmu4X8gqA+KYDQ=="
+          "relative_path": "api/Tensor.ITensorModule.html",
+          "hash": "2tQGpwQD34NPgfbh8SAjyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.ITensorModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.ITensorModule.layout.html",
+          "hash": "60v3AWmcomU6iIgqJ70kmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.ITensorModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.ITensorModule.dev.html",
+          "hash": "vse+sdKBbaSecuR8p1x3Ew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.ITensorModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.ITensorModule.shape.html",
+          "hash": "lke1f7SGyNmtXtyTQxUJ+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.ITensorModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.ITensorModule.nDims.html",
+          "hash": "ulPhtrcER+eNF/E7xcKX4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.ITensorModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.ITensorModule.nElems.html",
+          "hash": "RD6hnekAl5OWQqp1HbFc9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.ITensorModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.ITensorModule.dataType.html",
+          "hash": "OKl5JiyHyYXI7oObhSD20Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.ITensorModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Tensor.ITensorModule.relayout.html",
+          "hash": "eH/42nRRYW6KE1LArzUctw=="
         }
       },
       "is_incremental": false,
@@ -7622,102 +7718,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensorModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.ITensorModule.html",
-          "hash": "2tQGpwQD34NPgfbh8SAjyQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensorModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.ITensorModule.layout.html",
-          "hash": "60v3AWmcomU6iIgqJ70kmg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensorModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.ITensorModule.dev.html",
-          "hash": "vse+sdKBbaSecuR8p1x3Ew=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensorModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.ITensorModule.shape.html",
-          "hash": "lke1f7SGyNmtXtyTQxUJ+Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensorModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.ITensorModule.nDims.html",
-          "hash": "ulPhtrcER+eNF/E7xcKX4A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensorModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.ITensorModule.nElems.html",
-          "hash": "RD6hnekAl5OWQqp1HbFc9w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensorModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.ITensorModule.dataType.html",
-          "hash": "OKl5JiyHyYXI7oObhSD20Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.ITensorModule.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.ITensorModule.relayout.html",
-          "hash": "eH/42nRRYW6KE1LArzUctw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/Tensor.MatrixPart.yml",
       "output": {
         ".html": {
@@ -7793,6 +7793,18 @@
       "source_relative_path": "api/Tensor.Rng.yml",
       "output": {
         ".html": {
+          "relative_path": "api/Tensor.Rng.AllFill.html",
+          "hash": "AKEb5u7zkzFONXG7lV7MbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Tensor.Rng.yml",
+      "output": {
+        ".html": {
           "relative_path": "api/Tensor.Rng.Pretty.html",
           "hash": "rhIYdVK7oFCwp2UWte28cA=="
         }
@@ -7850,11 +7862,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.Rng.yml",
+      "source_relative_path": "api/Tensor.SingularMatrixException.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Tensor.Rng.AllFill.html",
-          "hash": "AKEb5u7zkzFONXG7lV7MbA=="
+          "relative_path": "api/Tensor.SingularMatrixException.html",
+          "hash": "dI2C2DTBiO8jPViRPw5UeA=="
         }
       },
       "is_incremental": false,
@@ -7879,18 +7891,6 @@
         ".html": {
           "relative_path": "api/Tensor.SingularMatrixException.msg.html",
           "hash": "ldemldB3lx/Eu+fKU7Bfaw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tensor.SingularMatrixException.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tensor.SingularMatrixException.html",
-          "hash": "dI2C2DTBiO8jPViRPw5UeA=="
         }
       },
       "is_incremental": false,
@@ -10902,7 +10902,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "iR9uHVXb/Omb1e87c333bA=="
+          "hash": "gQPGsfb4pxBrws459DvcUA=="
         }
       },
       "is_incremental": false,
@@ -10926,7 +10926,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Creation.html",
-          "hash": "eefPvK8JvnOBVEMdlvWKPg=="
+          "hash": "Gh68G/x9MCzuu7iWYaXoCg=="
         }
       },
       "is_incremental": false,
@@ -10938,7 +10938,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Elements.html",
-          "hash": "qsgsz2ZdyR852C61h/uZUg=="
+          "hash": "HfscFE7RtoTgUAa017/Awg=="
         }
       },
       "is_incremental": false,
@@ -10950,7 +10950,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Index.html",
-          "hash": "RnoCh39i3sdC/zP51MAizw=="
+          "hash": "Nrc4J9kXiIsWCfogT6XL5Q=="
         }
       },
       "is_incremental": false,
@@ -10962,7 +10962,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Installation.html",
-          "hash": "+3x0PdBZ/GaxblbmJpn6Uw=="
+          "hash": "Hi4H5X/Y/zW196MUNN2XUA=="
         }
       },
       "is_incremental": false,
@@ -10974,7 +10974,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Logic.html",
-          "hash": "382UEc+uWZG7Yk4jX3sBDQ=="
+          "hash": "vEYtZn78R6zecNNplSMZ4Q=="
         }
       },
       "is_incremental": false,
@@ -10986,7 +10986,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Operations.html",
-          "hash": "auyrLToT1wUpnrFXJV21yg=="
+          "hash": "J6K5cyRrJSycqnjpoGaGEw=="
         }
       },
       "is_incremental": false,
@@ -10998,7 +10998,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Reductions.html",
-          "hash": "Bx9+qnp4pZMFkzWvVZ4Z6g=="
+          "hash": "CO04D6Lj36BNzXO2MR/OTg=="
         }
       },
       "is_incremental": false,
@@ -11010,7 +11010,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Save-and-Load.html",
-          "hash": "iCK7UQBt4bNyMNXJRMML3A=="
+          "hash": "hGdtf5o0C2nil04er2UI1A=="
         }
       },
       "is_incremental": false,
@@ -11022,7 +11022,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Guide-Shape.html",
-          "hash": "cYERDm30fUJKMWfxt+cTLA=="
+          "hash": "OInVVf0WHb+W42a+a4h5Cg=="
         }
       },
       "is_incremental": false,
@@ -11034,7 +11034,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/ReleaseNotes.html",
-          "hash": "jiDzh7ZgwpaHhPSRj+336w=="
+          "hash": "jdNoVJ354U6CVPe0629QGg=="
         }
       },
       "is_incremental": false,
@@ -11046,7 +11046,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Status.html",
-          "hash": "Et8iyS0EWLf1P6SJSJhNSA=="
+          "hash": "Kc8AxeJn6zWFTBVV4xqt+w=="
         }
       },
       "is_incremental": false,
@@ -11058,7 +11058,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Tensor.html",
-          "hash": "vLlnSJU4ruSt42kq5gswwQ=="
+          "hash": "Gi1etTX8ZwzXNsZD2sOgcw=="
         }
       },
       "is_incremental": false,
@@ -11070,7 +11070,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Troubleshooting.html",
-          "hash": "ezPWyhucdSvc6UNdY/aeIQ=="
+          "hash": "0h9kd04pVDRdght5jCLfxw=="
         }
       },
       "is_incremental": false,
@@ -11116,7 +11116,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "/apxZNjjGTseqIVvEw8wlQ=="
+          "hash": "QzFBvH3uDgWoCOY8673uAQ=="
         }
       },
       "is_incremental": false,
@@ -11143,17 +11143,17 @@
         "incrementalPhase": "build"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build"
-        },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
         "ResourceDocumentProcessor": {
