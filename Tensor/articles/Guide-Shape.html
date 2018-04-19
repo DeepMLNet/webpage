@@ -121,7 +121,7 @@ It will raise an error, if creating a reshaped view of the original tensor is im
 <h2 id="reordering-axes-and-transposing">Reordering axes and transposing</h2>
 <p>The <a class="xref" href="../api/Tensor.Tensor-1.swapDim.html">Tensor.swapDim</a> function creates a new view of a tensor with the given dimensions swapped.
 For example, the following code transpose the matrix <code>b</code>.</p>
-<pre><code class="lang-fsharp">let b3 = ArrayND.swapDim 0 1 b
+<pre><code class="lang-fsharp">let b3 = Tensor.swapDim 0 1 b
 // b3 =
 //    [[   0    4    8   12]
 //     [   1    5    9   13]
@@ -150,7 +150,7 @@ This is called broadcasting.</p>
 <pre><code class="lang-fsharp">let c = HostTensor.init [1L; 4L] (fun [|_; i|] -&gt; int i)
 // c = [[   0    1    2    3]]
 </code></pre><p>We can use the <a class="xref" href="../api/Tensor.Tensor-1.broadcastTo.html">Tensor.broadcastTo</a> function to obtain a tensor with the first dimension repeated 3 times.</p>
-<pre><code class="lang-fsharp">let c1 = Tensor.broadcastTo[3L; 4L] c
+<pre><code class="lang-fsharp">let c1 = Tensor.broadcastTo [3L; 4L] c
 // c1 =
 //    [[   0    1    2    3]
 //     [   0    1    2    3]
@@ -165,7 +165,7 @@ This is demonstrated by the following example.</p>
 // c = [[   0   11    2    3]]
 </code></pre><h3 id="automatic-broadcasting">Automatic broadcasting</h3>
 <p>Broadcasting is also performed automatically when performing element-wise operations between two tensors of different, but compatible, shapes.
-This will be explained in the following chapters of the guide.</p>
+This will be explained in the section about <a href="Guide-Operations.html">tensor operations</a> of the guide.</p>
 </article>
           </div>
           
@@ -174,7 +174,7 @@ This will be explained in the following chapters of the guide.</p>
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/DeepMLNet/DeepNet/blob/882b12586b7a9bcc85970685b1685baa69a2f890/Tensor/Tensor.Docs/articles/Guide-Shape.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/DeepMLNet/DeepNet/blob/8771dec2a6cc1f10eaa91a34749eec8826f3c1a7/Tensor/Tensor.Docs/articles/Guide-Shape.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

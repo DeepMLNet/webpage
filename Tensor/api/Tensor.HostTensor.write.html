@@ -126,6 +126,10 @@
     </tr>
   </tbody>
 </table>
+<h5 id="Tensor_HostTensor_write_Tensor_HDF5____string____Tensor_ITensor__examples">Examples</h5>
+<pre><code class="fsharp"> let k = HostTensor.init [5L; 3L] (fun [|i; j|] -> 3.0 * float i + float j)
+ use hdfFile = HDF5.OpenWrite &quot;tensors.h5&quot;
+ HostTensor.write hdfFile &quot;k&quot; k</code></pre>
 </article>
           </div>
           

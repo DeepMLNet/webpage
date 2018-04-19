@@ -105,7 +105,38 @@ Thus, in our example, the last dimension of tensor <code>a</code> is broadcasted
 </li>
 </ol>
 <p>If the shapes still differ after applying the above rules, the operation fails and an exception is raised.</p>
-<h3 id="storage-devices-must-match">Storage devices must match</h3>
+<pre><code class="lang-fsharp">let a = HostTensor.init [4L; 3L; 1L] (fun [|i; j; k|] -&gt; float i + 0.1 * float j)
+let b = HostTensor.init [2L] (fun [|i|] -&gt; 10.0 * float i)
+// a =
+//   [[[   0.0000]
+//     [   0.1000]
+//     [   0.2000]]
+//    [[   1.0000]
+//     [   1.1000]
+//     [   1.2000]]
+//    [[   2.0000]
+//     [   2.1000]
+//     [   2.2000]]
+//    [[   3.0000]
+//     [   3.1000]
+//     [   3.2000]]]
+// b = [   0.0000   10.0000]
+let apb = a + b
+// apb =
+//   [[[   0.0000   10.0000]
+//     [   0.1000   10.1000]
+//     [   0.2000   10.2000]]
+//    [[   1.0000   11.0000]
+//     [   1.1000   11.1000]
+//     [   1.2000   11.2000]]
+//    [[   2.0000   12.0000]
+//     [   2.1000   12.1000]
+//     [   2.2000   12.2000]]
+//    [[   3.0000   13.0000]
+//     [   3.1000   13.1000]
+//     [   3.2000   13.2000]]]
+// apb.Shape = [4L; 3L; 2L]
+</code></pre><h3 id="storage-devices-must-match">Storage devices must match</h3>
 <p>All tensors participating in an operation must be located on the same storage device, i.e. their <a class="xref" href="../api/Tensor.Tensor-1.Dev.html">Dev</a> property must be equal.
 The result will be stored on the same device as the sources.
 No automatic transfer between different devices (e.g. GPU and host memory) is performed; instead an exception is raised.</p>
@@ -151,6 +182,11 @@ let i = 0.1 + HostTensor.identity 3L
 //      [   0.1000    0.1000    1.1000]]
 let hi = h .* i
 // hi =
+//     [[   0.3000    1.3000    2.3000]
+//      [   4.2000    5.2000    6.2000]
+//      [   8.1000    9.1000   10.1000]
+//      [  12.0000   13.0000   14.0000]
+//      [  15.9000   16.9000   17.9000]]
 </code></pre><h2 id="linear-algebra-operations">Linear algebra operations</h2>
 <p>The diagonal of a matrix can be extracted using the <a class="xref" href="../api/Tensor.Tensor-1.diag.html">diag</a> function.
 To create a diagonal matrix with specific elements on the diagonal use the <a class="xref" href="../api/Tensor.Tensor-1.diagMat.html">diagMat</a> function.</p>
@@ -159,7 +195,12 @@ To create a diagonal matrix with specific elements on the diagonal use the <a cl
 However, this may be numerically instable, especially if the condition number of the matrix is low.
 Thus it is usually better, but also more expensive, to compute the Moore-Penrose pseudo-inverse using the <a class="xref" href="../api/Tensor.Tensor-1.pseudoInvert.html">pseudoInvert</a> function.
 This is also applicable to non-square and non-invertable matrices.</p>
-<p>The singular value decomposition (SVD) of a matrix is available through <a class="xref" href="../api/Tensor.Tensor-1.SVD.html">SVD</a>.
+<pre><code class="lang-fsharp">let iinv = Tensor.invert i
+// iinv =
+//    [[   0.9231    -0.077    -0.077]
+//     [   -0.077    0.9231    -0.077]
+//     [   -0.077    -0.077    0.9231]]
+</code></pre><p>The singular value decomposition (SVD) of a matrix is available through <a class="xref" href="../api/Tensor.Tensor-1.SVD.html">SVD</a>.
 The eigen-decomposition of a symmetric matrix can be computed using the <a class="xref" href="../api/Tensor.Tensor-1.symmetricEigenDecomposition.html">symmetricEigenDecomposition</a> function.</p>
 <p>The tensor product (pairwise product between all elements of two tensors) between two tensors can be obtained using the the <a class="xref" href="../api/Tensor.Tensor-1.tensorProduct.html">tensorProduct</a> function.</p>
 <h2 id="concatenation-and-block-tensors">Concatenation and block tensors</h2>
@@ -183,7 +224,7 @@ Indexed variants of both function are provided by <a class="xref" href="../api/T
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/DeepMLNet/DeepNet/blob/882b12586b7a9bcc85970685b1685baa69a2f890/Tensor/Tensor.Docs/articles/Guide-Operations.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/DeepMLNet/DeepNet/blob/8771dec2a6cc1f10eaa91a34749eec8826f3c1a7/Tensor/Tensor.Docs/articles/Guide-Operations.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

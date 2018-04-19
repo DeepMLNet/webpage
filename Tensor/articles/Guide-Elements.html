@@ -100,7 +100,7 @@ let v = a.[[1L; 1L]]
 Note that the indices are specified as 64-bit integers surrounded by double brackets (<code>[[</code> and <code>]]</code>) and separated using a semicolon.</p>
 <p>Tensors are mutable objects.
 An element can be changed using the <code>tensor.[[idx0; idx1; ...; idxN]] &lt;- newValue</code> notation.</p>
-<pre><code class="lang-fsharp">a.[[2L; 2L]] &lt;- 55.
+<pre><code class="lang-fsharp">a.[[2L; 2L]] &lt;- 55.0
 // a =
 //    [[   0.0000    1.0000    2.0000    3.0000    4.0000]
 //     [   5.0000    6.0000    7.0000    8.0000    9.0000]
@@ -134,7 +134,7 @@ Hence, changing an element of <code>a1</code> by assigning a new value to it cha
 //   [  30.0000   31.0000   32.0000   33.0000   34.0000]]
 </code></pre><p>Slicing can also be used to change multiple elements of a tensor at once.
 For example the following code sets all elements of the first row of <code>a</code> to 1.</p>
-<pre><code class="lang-fsharp">let a2 = HostTensor&lt;float&gt;.ones [5L]
+<pre><code class="lang-fsharp">let a2 = HostTensor.ones&lt;float&gt; [5L]
 // a2 = [1.0  1.0  1.0  1.0  1.0]
 a.[0L, *] &lt;- a2
 // a =
@@ -178,7 +178,7 @@ For example <code>b.[0L, Fill, 2L]</code> is equivalent to <code>b.[0L, *, *, 4L
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/DeepMLNet/DeepNet/blob/882b12586b7a9bcc85970685b1685baa69a2f890/Tensor/Tensor.Docs/articles/Guide-Elements.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/DeepMLNet/DeepNet/blob/8771dec2a6cc1f10eaa91a34749eec8826f3c1a7/Tensor/Tensor.Docs/articles/Guide-Elements.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
