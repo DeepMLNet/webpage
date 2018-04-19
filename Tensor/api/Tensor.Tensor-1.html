@@ -1222,7 +1222,18 @@ target tensors.</p>
         <td id="Tensor_Tensor_1_identity_Tensor_Backend_ITensorDevice____int64_" data-uid="Tensor.Tensor`1.identity(Tensor.Backend.ITensorDevice -&gt; int64)">
           <a class="xref" href="Tensor.Tensor-1.identity.html#Tensor_Tensor_1_identity_Tensor_Backend_ITensorDevice____int64_">static member identity: ITensorDevice -&gt; int64 -&gt; Tensor&lt;&#39;T&gt;</a>
         </td>
-        <td class="markdown level1 summary"><p>Creates a new identity matrix.</p>
+        <td class="markdown level1 summary"><p> <summary>Creates a new identity matrix.</summary>
+ <param name="dev">The device to create the matrix on.
+ <param name="size">The size of the square identity matrix.
+ <returns>The new tensor.</returns>
+ <example><code language="fsharp">
+ let a = Tensor<float>.identity HostTensor.Dev 3L
+ // a = [[1.0; 0.0; 0.0]
+ //      [0.0; 1.0; 0.0]
+ //      [0.0; 0.0; 1.0]]<br> </float></code></example><br> <remarks>
+ <para>A new square matrix of the specified size is created on the specified device.</para>
+ <para>The tensor is filled with ones on the diagonal and zeros elsewhere.</para>
+ </remarks></p>
 </td>
       </tr>
       <tr>
@@ -1432,7 +1443,19 @@ target tensors.</p>
         <td id="Tensor_Tensor_1_ones_Tensor_Backend_ITensorDevice____int64_list_" data-uid="Tensor.Tensor`1.ones(Tensor.Backend.ITensorDevice -&gt; int64 list)">
           <a class="xref" href="Tensor.Tensor-1.ones.html#Tensor_Tensor_1_ones_Tensor_Backend_ITensorDevice____int64_list_">static member ones: ITensorDevice -&gt; int64 list -&gt; Tensor&lt;&#39;T&gt;</a>
         </td>
-        <td class="markdown level1 summary"><p>Creates a new tensor filled with ones (1).</p>
+        <td class="markdown level1 summary"><p> <summary>Creates a new tensor filled with ones (1).</summary>
+ <param name="dev">The device to create the tensor on.
+ <param name="shape">The shape of the new tensor.
+ <returns>The new tensor.</returns>
+ <example><code language="fsharp">
+ let a = Tensor<float>.ones HostTensor.Dev [2L; 3L]
+ // a = [[1.0; 1.0; 1.0]
+ //      [1.0; 1.0; 1.0]]
+ </float></code></example><br> <remarks>
+ <para>A new tensor of the specified shape is created on the specified device.</para>
+ <para>The tensor is filled with ones.</para>
+ </remarks>
+ <seealso cref="onesLike"></seealso><seealso cref="zeros"></seealso>    </p>
 </td>
       </tr>
       <tr>
@@ -1842,7 +1865,19 @@ the specified value.</p>
         <td id="Tensor_Tensor_1_zeros_Tensor_Backend_ITensorDevice____int64_list_" data-uid="Tensor.Tensor`1.zeros(Tensor.Backend.ITensorDevice -&gt; int64 list)">
           <a class="xref" href="Tensor.Tensor-1.zeros.html#Tensor_Tensor_1_zeros_Tensor_Backend_ITensorDevice____int64_list_">static member zeros: ITensorDevice -&gt; int64 list -&gt; Tensor&lt;&#39;T&gt;</a>
         </td>
-        <td class="markdown level1 summary"><p>Creates a new tensor filled with zeros (0).</p>
+        <td class="markdown level1 summary"><p> <summary>Creates a new tensor filled with zeros (0).</summary>
+ <param name="dev">The device to create the tensor on.
+ <param name="shape">The shape of the new tensor.
+ <returns>The new tensor.</returns>
+ <example><code language="fsharp">
+ let a = Tensor<float>.zeros HostTensor.Dev [2L; 3L]
+ // a = [[0.0; 0.0; 0.0]
+ //      [0.0; 0.0; 0.0]]
+ </float></code></example><br> <remarks>
+ <para>A new tensor of the specified shape is created on the specified device.</para>
+ <para>The tensor is filled with zeros.</para>
+ </remarks>
+ <seealso cref="zerosLike"></seealso><seealso cref="ones"></seealso></p>
 </td>
       </tr>
       <tr>

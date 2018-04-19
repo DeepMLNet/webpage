@@ -98,13 +98,12 @@ In this case we specified <a class="xref" href="../api/Tensor.HostTensor.Dev%28%
 The second argument specifies the desired shape.
 All shapes and indices in this tensor library are 64-bit integers.
 Thus we have to use the <code>L</code> postfix when writing integer literals, i.e. <code>3L</code> instead of <code>3</code>.</p>
-<p>Since creating tensors in host memory is a very common operation, the library also provides the shorter notation</p>
+<p>Since creating tensors in host memory is a very common operation, the library also provides the shorter notation shown below to perform the same task.</p>
 <pre><code class="lang-fsharp">let z1 = HostTensor.zeros&lt;int&gt; [3L; 2L]
 // z1 = [[0; 0]
 //       [0; 0]
 //       [0; 0]]
-</code></pre><p>to perform the same task.
-These shorthands are available for all tensor creation function and listed in the <a class="xref" href="../api/Tensor.HostTensor.html">HostTensor</a> module.</p>
+</code></pre><p>These shorthands are available for all tensor creation function and listed in the <a class="xref" href="../api/Tensor.HostTensor.html">HostTensor</a> module.</p>
 <h2 id="other-initialization-possibilities">Other initialization possibilities</h2>
 <p>Similarly, we can use the <a class="xref" href="../api/Tensor.Tensor-1.ones.html">Tensor&lt;&#39;T&gt;.ones</a> function to obtain a vector of data type <code>single</code> and size <code>3</code> filled with ones.</p>
 <pre><code class="lang-fsharp">let o1 = Tensor&lt;single&gt;.ones HostTensor.Dev [3L]
@@ -133,7 +132,7 @@ However, for convenience, special functions are provided to make working with sc
 <h2 id="host-only-creation-methods">Host-only creation methods</h2>
 <p>Some tensor creation methods can only produce tensors stored in host memory, which, of course, can be transferred to GPU memory subsequently.
 For example the <a class="xref" href="../api/Tensor.HostTensor.init.html">HostTensor.init</a> function takes a function and uses it to compute the initial value of each element of the tensor.</p>
-<pre><code class="lang-fsharp">let a = HostTensor.init [7L; 5L] (fun [i; j] -&gt; 5.0 * float i + float j)
+<pre><code class="lang-fsharp">let a = HostTensor.init [7L; 5L] (fun [|i; j|] -&gt; 5.0 * float i + float j)
 // a =
 //    [[   0.0000    1.0000    2.0000    3.0000    4.0000]
 //     [   5.0000    6.0000    7.0000    8.0000    9.0000]
@@ -186,7 +185,7 @@ All operations performed on <code>mGpu</code> will execute directly on the GPU.<
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/DeepMLNet/DeepNet/blob/465dc2dfdd1fe6cde5e059861604705f86657440/Tensor/Tensor.Docs/articles/Guide-Creation.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/DeepMLNet/DeepNet/blob/5aa4bf90b5a9268a91481620f23250d9a2f81482/Tensor/Tensor.Docs/articles/Guide-Creation.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

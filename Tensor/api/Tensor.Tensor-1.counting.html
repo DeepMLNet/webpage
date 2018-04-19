@@ -140,6 +140,13 @@
 <div class="markdown level1 remarks"><p>A new vector with the specified number of elements is created on the specified device.</p>
 <p>The tensor is filled with <code>[0L; 1L; 2L; ...; nElems-1L]</code>. </p>
 </div>
+<h5 id="Tensor_Tensor_1_counting_Tensor_Backend_ITensorDevice____int64__examples">Examples</h5>
+<pre><code class="fsharp"> let a = Tensor.counting HostTensor.Dev 5L
+ // a = [0L; 1L; 2L; 3L; 4L]</code></pre>
+<h5 id="Tensor_Tensor_1_counting_Tensor_Backend_ITensorDevice____int64__seealso">See Also</h5>
+<div class="seealso">
+    <div><span class="xref">arange``1</span></div>
+</div>
 </article>
           </div>
           

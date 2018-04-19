@@ -172,6 +172,13 @@
 <p>The vector is filled with <code>[start; start+1<em>incr; start+2</em>incr; ...; stop]</code> where
 <code>incr = (stop - start) / (nElems - 1)</code>.</p>
 </div>
+<h5 id="Tensor_Tensor_1_linspace_Tensor_Backend_ITensorDevice_____V_____V____int64__examples">Examples</h5>
+<pre><code class="fsharp"> let a = Tensor.linspace HostTensor.Dev 1.0 2.0 5L
+ // a = [1.0; 1.2; 1.4; 1.6; 1.8]</code></pre>
+<h5 id="Tensor_Tensor_1_linspace_Tensor_Backend_ITensorDevice_____V_____V____int64__seealso">See Also</h5>
+<div class="seealso">
+    <div><span class="xref">arange``1</span></div>
+</div>
 </article>
           </div>
           
