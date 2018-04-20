@@ -374,18 +374,7 @@ computation.</p>
         <td id="Tensor_HostTensor_read_Tensor_HDF5____string_" data-uid="Tensor.HostTensor.read(Tensor.HDF5 -&gt; string)">
           <a class="xref" href="Tensor.HostTensor.read.html#Tensor_HostTensor_read_Tensor_HDF5____string_">val read: HDF5 -&gt; string -&gt; Tensor&lt;&#39;T&gt;</a>
         </td>
-        <td class="markdown level1 summary"><p> <summary>Reads a tensor from the specified HDF5 object path in an HDF5 file.</summary>
- <typeparam name="'T">The type of the data. This must match the type of the data stored in the
- HDF5 file.</typeparam>
- <param name="hdf5">The HDF5 file.
- <param name="path">The HDF5 object path.
- <returns>A tensor filled with data read from the HDF5 file.</returns>
- <exception cref="System.InvalidOperationException">The data type stored in the HDF5 does 
- not match type <c>&#39;T</c>.</exception>
- <example><code language="fsharp">
- use hdfFile = HDF5.OpenRead &quot;tensors.h5&quot;
- let k = HostTensor.read<float> hdfFile &quot;k&quot;
- </float></code></example><br> <seealso cref="write"></seealso><seealso cref="readUntyped"></seealso></p>
+        <td class="markdown level1 summary"><p>Reads a tensor from the specified HDF5 object path in an HDF5 file.</p>
 </td>
       </tr>
       <tr>
