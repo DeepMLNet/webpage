@@ -3517,12 +3517,12 @@ references:
   commentId: Overload:Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Ceiling*
   fullName: Tensor.Cuda.TensorCudaBackend.Ceiling
   nameWithType: TensorCudaBackend.Ceiling
-- uid: Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Convert(Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?141154>)
-  name: "interface ITensorBackend<'T> with member Convert: ITensorFrontend<'T> * ITensorFrontend<'?141154> -> unit"
-  href: api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html#Tensor_Cuda_TensorCudaBackend_1_Tensor_Backend_ITensorBackend_1_Convert_Tensor_Backend_ITensorFrontend__T____Tensor_Backend_ITensorFrontend___141154__
+- uid: Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Convert(Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?141156>)
+  name: "interface ITensorBackend<'T> with member Convert: ITensorFrontend<'T> * ITensorFrontend<'?141156> -> unit"
+  href: api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html#Tensor_Cuda_TensorCudaBackend_1_Tensor_Backend_ITensorBackend_1_Convert_Tensor_Backend_ITensorFrontend__T____Tensor_Backend_ITensorFrontend___141156__
   commentId: M:Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Convert``1(Tensor.Backend.ITensorFrontend{`0},Tensor.Backend.ITensorFrontend{``0})
-  fullName: "interface Tensor.Backend.ITensorBackend<'T> with member Tensor.Cuda.TensorCudaBackend.Convert: Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?141154> -> unit"
-  nameWithType: "interface ITensorBackend<'T> with member TensorCudaBackend.Convert: ITensorFrontend<'T> * ITensorFrontend<'?141154> -> unit"
+  fullName: "interface Tensor.Backend.ITensorBackend<'T> with member Tensor.Cuda.TensorCudaBackend.Convert: Tensor.Backend.ITensorFrontend<'T> * Tensor.Backend.ITensorFrontend<'?141156> -> unit"
+  nameWithType: "interface ITensorBackend<'T> with member TensorCudaBackend.Convert: ITensorFrontend<'T> * ITensorFrontend<'?141156> -> unit"
 - uid: Tensor.Cuda.TensorCudaBackend`1.Tensor-Backend-ITensorBackend`1-Convert*
   name: Convert
   href: api/Tensor.Cuda.TensorCudaBackend-1.Tensor-Backend-ITensorBackend-1-Convert.html
@@ -4196,11 +4196,11 @@ references:
   fullName: Tensor.Cuda.TensorCudaDevice
   nameWithType: Tensor.Cuda.TensorCudaDevice
 - uid: Tensor.Cuda.TensorCudaDevice.Create(int64)
-  name: "override member Create: int64 -> ITensorStorage<'?141283>"
+  name: "override member Create: int64 -> ITensorStorage<'?141285>"
   href: api/Tensor.Cuda.TensorCudaDevice.Create.html#Tensor_Cuda_TensorCudaDevice_Create_int64_
   commentId: M:Tensor.Cuda.TensorCudaDevice.Create``1(System.Int64)
-  fullName: "override member Tensor.Cuda.TensorCudaDevice.Create: int64 -> Tensor.Backend.ITensorStorage<'?141283>"
-  nameWithType: "override member TensorCudaDevice.Create: int64 -> ITensorStorage<'?141283>"
+  fullName: "override member Tensor.Cuda.TensorCudaDevice.Create: int64 -> Tensor.Backend.ITensorStorage<'?141285>"
+  nameWithType: "override member TensorCudaDevice.Create: int64 -> ITensorStorage<'?141285>"
 - uid: Tensor.Cuda.TensorCudaDevice.Create*
   name: Create
   href: api/Tensor.Cuda.TensorCudaDevice.Create.html
